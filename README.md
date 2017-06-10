@@ -1,6 +1,13 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+<img src="https://rawgit.com/hgupta9/awesome-actionscript3/master/AS3_AIR.png" align="right" width="200">
+
 # awesome-actionscript3
-A curated list of awesome ActionScript 3 frameworks, libraries, components and engines.
+
+> A curated list of awesome ActionScript 3 frameworks, libraries, components and engines.
+
+
+## Contents
 
 * User Interface
 	* [UI Components](#ui-components)
