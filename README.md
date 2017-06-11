@@ -66,7 +66,7 @@
 	* [Sockets](#sockets)
 	* [Protocols](#protocols)
 	* [Email](#email)
-* 3D Engines
+* [3D Engines](#3d-engines)
 	* [Away3D](#away3d)
 	* [Alternativa3D](#alternativa3d)
 	* [Papervision3D](#papervision3d)
@@ -128,7 +128,7 @@
 
 * [Adobe TLF](https://github.com/apache/flex-tlf) - Adobe/Apache Flex Text Layout Framework (TLF)
 * [MinimalComps](https://github.com/minimalcomps/minimalcomps) - Minimal ActionScript 3.0 UI Components for Flash
-* [Extended-MinimalComps](https://github.com/turbosqel/Extended-MinimalComps) - Rework of popular MinimalComps library, upgraded for data binding, relative resizing, ASML builder and more ...
+* [Extended-MinimalComps](https://github.com/turbosqel/Extended-MinimalComps) - Upgraded for data binding, relative resizing, ASML builder and more.
 * [MadComponents](https://github.com/danfreeman/MadComponents) - Popular Mobile UI Framework for AS3 / AIR
 * [AsWing](https://github.com/dreamsxin/AsWing) - Open Source Flash ActionScript GUI framework
 * [GPUI](https://github.com/inspirit/GPUI) - tiny GPU [Stage3D] based GUI
@@ -207,7 +207,7 @@
 #### Particle
 
 * [Flint](https://github.com/richardlord/Flint) - Actionscript 3 Particle Engine for Flash and Flex
-* [Desuade Partigen](https://github.com/andrewfitz/desuade) - Desuade Partigen particle generation system
+* [Desuade Partigen](http://desuade.com/partigen) - Desuade Partigen particle generation system ([github](https://github.com/andrewfitz/desuade))
 * [Angulex](https://github.com/cosmindolha/ParticleDesigner) - Particle Designer for the Starling framework (ActionScript 3)
 * [SAP](https://github.com/gonchar/SAP) - Particle System for Starling
 * [Starling-Particles](https://github.com/Gamua/Starling-Extension-Particle-System) - A particle system for the Starling framework, compatible with the "Particle Designer" from 71squared.com
@@ -219,7 +219,6 @@
 * [Open Flash Charts](https://sourceforge.net/projects/openflashchart/) - Line charts, Area charts, Bar charts, Pie charts, Scatter charts.
 * [Flare](https://github.com/prefuse/Flare) - charts and graphs, supports data management, visual encoding, animation, and interaction techniques.
 * [clearmaps](https://github.com/sunlightlabs/clearmaps) - An ActionScript mapping framework for data visualization.
-* [flare_juicekit](https://github.com/jonbuffington/flare_juicekit) - A patched branch of the Flare data visualization ActionScript library for use in the JuiceKit project.
 * [redada](https://github.com/geraldo/redada) - Interactive visualization of weighted graphs using GraphML files.
 * [flextreemap](https://github.com/joshtynjala/flextreemap) - TreeMap data visualization component for Adobe Flex
 * [GraphVisualizer](https://github.com/armisael/GraphVisualizer) - A Flex 3 + ActionScript 3 web software to draw dynamic graphcs
@@ -244,7 +243,7 @@
 
 #### QR Code
 
-* [zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) - QR code detection and generation ([docs](https://zxing.github.io/zxing/))
+* [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) - QR code detection and generation ([docs](https://zxing.github.io/zxing/))
 * [AS3-qrcode-encoder](https://github.com/jbpin/as3-qrcode-encoder) - A QR code encoder in as3
 * [qrcode-as](https://github.com/yanbe/qrcode-as) - QR Code reader written in ActionScript 3 which supports webcam on Windows, Mac and Linux by default
 
@@ -262,16 +261,16 @@
 
 #### CouchDB
 * [AS3couchdb](https://github.com/bustardcelly/as3couchdb) - An AS3 clientside API for interacting with a CouchDB instance.
-* [soup](https://github.com/dima/soup) - Mixing CouchDB, Sinatra, AIR and RestfulX to create an offline/online ready app with undo/redo capabilities.
+* [Soup](https://github.com/dima/soup) - Mixing CouchDB, Sinatra, AIR and RestfulX to create an offline/online ready app with undo/redo capabilities.
 
 #### MySQL
 * [AS3mysql](https://github.com/hgupta9/as3mysql) - An AS3 driver for the MySQL open source database.
 
 #### PostgreSQL
-* [pegasus](https://github.com/uhoh-itsmaciek/pegasus) - An AS3 driver for the PostgreSQL open source database.
+* [Pegasus](https://github.com/uhoh-itsmaciek/pegasus) - An AS3 driver for the PostgreSQL open source database.
 
 #### DynamoDB
-* [aws-dynamodb-actionscript](https://github.com/ferf/aws-dynamodb-actionscript) - An actionscript library for accessing Amazon's AWS DynamoDB
+* [AWS-dynamodb](https://github.com/ferf/aws-dynamodb-actionscript) - An actionscript library for accessing Amazon's AWS DynamoDB
 
 #### Redis
 * [AS3redis](https://github.com/zhangq0355/as3redis) - An Actionscript 3 library for Redis
@@ -383,7 +382,7 @@
 
 * [AS3midilib](https://github.com/heyfrench/as3midilib) - Working with MIDI data and devices
 * [AS3glue](https://code.google.com/archive/p/as3glue/) - Communication for Arduino boards
-* [AS3-arduino-connector](https://github.com/quetwo/as3-arduino-connector) - Connecting Arduino Prototyping board to Adobe AIR
+* [AS3-arduino](https://github.com/quetwo/as3-arduino-connector) - Connecting Arduino Prototyping board to Adobe AIR
 * [AIRkinect](https://github.com/AS3NUI/airkinect-2-core) - ANE for integrating with Microsoft Kinect. ([examples](https://github.com/AS3NUI/airkinect-2-examples))
 * [KinectGate](https://github.com/cleoag/KinectGate) - KinectSDK to AS3 socket gate
 * [Kinect-Gestures](https://github.com/tonybeltramelli/Air-Kinect-Gesture-Lib) - Air Kinect Gesture Library
@@ -547,3 +546,4 @@
 * [baidu](https://github.com/lilili87222/baidu-ane-for-ios-and-android) - Baidu ANE for for ios and android
 * [testflight](https://github.com/jlopez/ane-testflight) - Apple TestFlight ANE
 * [Chartboost](https://github.com/ChartBoost/air) - ANE for the Chartboost SDK with compile scripts.
+
