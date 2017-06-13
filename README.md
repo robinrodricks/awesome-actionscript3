@@ -89,19 +89,19 @@
 
 * [PureMVC](https://github.com/PureMVC/puremvc-as3-standard-framework) - PureMVC Standard Framework  ([multicore](https://github.com/PureMVC/puremvc-as3-multicore-framework))
 * [Robotlegs](https://github.com/robotlegs/robotlegs-framework) - Robotlegs framework for Flash and Flex
-* [Hummingbird](https://github.com/flashapi/hummingbird) - The easiest way to build and deploy robust MVC applications for ActionScript 3.0, Mobile and the Starling Framework.
-* [Apollo](https://github.com/LaurentZuijdwijk/Apollo) - Apollo is an dependency injection and messaging framework. It can be used as the basis for Actionscript MVC projects.
+* [Hummingbird](https://github.com/flashapi/hummingbird) - Build and deploy robust MVC applications for AS3, Mobile and the Starling Framework.
+* [Apollo](https://github.com/LaurentZuijdwijk/Apollo) - Dependency injection and messaging framework, which can be used as the basis for MVC projects
 * [Somacore](https://github.com/soundstep/somacore_framework) - SomaCore is a lightweight event-based AS3 MVC framework.
-* [Kote](https://github.com/whitered/Kote) - Kote is a fast and lightweight MVC framework for ActionScript 3 that brings together the best of PureMVC and as3-signals
+* [Kote](https://github.com/whitered/Kote) - fast and lightweight MVC framework that brings together the best of PureMVC and as3-signals
 * [StarlingMVC](https://github.com/CreativeBottle/starlingMVC) - IOC Framework for Starling based games
 
 #### UI Frameworks
 
 * [Starling](https://gamua.com/starling/) - High-performance 2D graphics engine built on Stage3D. API identical to Flash API. ([github](https://github.com/Gamua/Starling-Framework), [help](http://wiki.starling-framework.org/start))
 * [Feathers UI](https://feathersui.com/) - User interface components for Starling Framework ([github](https://github.com/BowlerHatLLC/feathers), [help](https://feathersui.com/help/index.html))
-* [Flow](https://github.com/artman/Flow) - A Flash layout, effects, data binding, remoting framework designed to be used instead of Flex when performance is essential.
-* [Swiz](https://github.com/swiz/swiz-framework) - a brutally simple micro-architecture for creating Rich Internet Applications with ActionScript 3 and Adobe Flex.
-* [Hiddenwood](https://github.com/raweden/Project-Hiddenwood) - A user interface library developed for a web app project, written in Actionscript 3 and in a MVC pattern.
+* [Flow](https://github.com/artman/Flow) - Flash layout, effects, data binding, remoting framework designed to be used instead of Flex when performance is essential.
+* [Swiz](https://github.com/swiz/swiz-framework) - Brutally simple micro-architecture for creating RIAs with AS3 and Adobe Flex.
+* [Hiddenwood](https://github.com/raweden/Project-Hiddenwood) - User interface library developed for a web app project, written in Actionscript 3 and in a MVC pattern.
 * [Elastic-Lists](https://github.com/MoritzStefaner/Elastic-Lists) - Fluid and powerful interface for facet browsing.
 
 #### Game Frameworks
@@ -112,23 +112,23 @@
 #### Animation
 
 * [GreenSock GSAP](https://greensock.com/gsap-as) - The industry-standard animation library for Flash (TweenLite, TweenMax) ([github](https://github.com/greensock/GreenSock-AS3))
-* [GTween](http://gskinner.com/libraries/gtween/) - small but robust library for programmatic tweening, animation, and transitions.
+* [GTween](http://gskinner.com/libraries/gtween/) - Small but robust library for programmatic tweening, animation, and transitions.
 * [DragonBones](http://dragonbones.github.io/) - High-speed skeletal animation using Starling & tools for Flash Pro.
 
 #### Signals
-* [AS3-signals](https://github.com/robertpenner/as3-signals) - A new approach for AS3 events inspired by C# events and signals/slots in Qt.
-* [react-as3](https://github.com/tconkling/react-as3) - A signals/slots and functional reactive programming library.
-* [Signaller](https://github.com/whitered/Signaller) - ActionScript signals implementation with restricted rights for dispatching
-* [Fa-as3](https://github.com/fabrikagency/fa-as3) - Write less, do more; modeled like jQuery.
+* [AS3-signals](https://github.com/robertpenner/as3-signals) - New approach for AS3 events inspired by C# events and signals/slots in Qt.
+* [react-as3](https://github.com/tconkling/react-as3) - Signals/slots and functional reactive programming library.
+* [Signaller](https://github.com/whitered/Signaller) - Signals implementation with restricted rights for dispatching
+* [Fa-as3](https://github.com/fabrikagency/fa-as3) - Write less, do more framework, modeled like jQuery.
 
 #### Unit Testing
 
-* [AS3unit](https://github.com/Hoten/as3unit) - A unit testing framework for ActionScript 3
-* [hamcrest-as3](https://github.com/drewbourne/hamcrest-as3) - Port of hamcrest to ActionScript 3, a library of matcher objects (also known as constraints or predicates) allowing 'match' rules to be defined declaratively.
+* [AS3unit](https://github.com/Hoten/as3unit) - Unit testing framework for ActionScript 3
+* [hamcrest-as3](https://github.com/drewbourne/hamcrest-as3) - Matcher objects allowing 'match' rules to be defined declaratively.
 * [expect.as](https://github.com/krzysztof-o/expect.as) - BDD-style assertion library for ActionScript 3
-* [AS3spec](https://github.com/f1337/as3spec) - A tiny BDD framework for AS3, inspired by Bacon and RSpec
+* [AS3spec](https://github.com/f1337/as3spec) - Tiny BDD framework for AS3, inspired by Bacon and RSpec
 * [Flexunit](https://github.com/flexunit/flexunit) - FlexUnit project for Actionscript 3 and Flex projects.
-* [ASunit](https://github.com/patternpark/asunit) - The only ActionScript unit test framework that supports Flash Players 6, 7, 8, 9 and 10
+* [ASunit](https://github.com/patternpark/asunit) - The only AS3 unit test framework that supports Flash Players 6, 7, 8, 9 and 10
 
 ## User Interface
 #### UI Components
@@ -140,8 +140,8 @@
 * [AsWing](https://github.com/dreamsxin/AsWing) - Open Source Flash ActionScript GUI framework
 * [GPUI](https://github.com/inspirit/GPUI) - tiny GPU [Stage3D] based GUI
 * [Falcon](https://github.com/HendrixString/Falcon) - responsive/flexible mobile ui controls for Feathers
-* [Flex-maps](https://github.com/igorcosta/flex-maps) - the definitive solution for maps in Apache Flex
-* [FlexBook](https://github.com/blvz/FlexBook) - An awesome Page Flip component done in Flex.
+* [Flex-maps](https://github.com/igorcosta/flex-maps) - Definitive solution for maps in Apache Flex
+* [FlexBook](https://github.com/blvz/FlexBook) - Awesome Page Flip component for Flex.
 
 #### Starling Components
 
@@ -183,7 +183,7 @@
 #### Camera
 
 * [CameraDetection](https://github.com/cataclysmicrewind/CameraDetection) - AS3 camera detection
-* [Fluocam](https://github.com/Fluocode/Fluocam) - This is a virtual camera  for Starling applications
+* [Fluocam](https://github.com/Fluocode/Fluocam)- virtual camera  for Starling applications
 * [WebcamRecorder](https://github.com/Stupeflix/WebcamRecorder) - chromeless video/audio/still image recording from webcams.
 
 #### Sound
@@ -193,7 +193,7 @@
 * [Standingwave3-addons](https://github.com/charlesclements/standingwave3-addons) - Addons for SW3
 * [Soundtouch-as3](https://github.com/also/soundtouch-as3) - AS3 Port of the SoundTouch Sound Processing Library
 * [SeiON](https://github.com/cardin/SeiON) - Actionscript Sound Management Library
-* [AS3-Sound-Manager](https://github.com/GrupoW/as3-Sound-Manager) - this is an upgrated version of the Sound Manager Class from Matt Przybylski
+* [AS3-Sound-Manager](https://github.com/GrupoW/as3-Sound-Manager)-  upgrated version of the Sound Manager Class from Matt Przybylski
 * [AS3sfxr](https://github.com/SFBTom/as3sfxr) - A port of sfxr from C++ to AS3, using the new sound and file capabilities of Flash Player 10.
 * [AS3-audio](https://github.com/singuerinc/as3-audio) - Audio Management in Actionscript
 * [SiON](https://github.com/keim/SiON) - Flash Software Synthesizer
@@ -564,3 +564,4 @@
 * [baidu](https://github.com/lilili87222/baidu-ane-for-ios-and-android) - Baidu ANE for for ios and android
 * [testflight](https://github.com/jlopez/ane-testflight) - Apple TestFlight ANE
 * [Chartboost](https://github.com/ChartBoost/air) - ANE for the Chartboost SDK with compile scripts.
+
