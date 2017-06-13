@@ -12,11 +12,13 @@
 * [Frameworks](#frameworks)
 	* [MVC Frameworks](#mvc-frameworks)
 	* [UI Frameworks](#ui-frameworks)
-	* [Starling](#starling)
+	* [Game Frameworks](#game-frameworks)
+	* [Animation](#animation)
 	* [Signals](#signals)
 	* [Unit Testing](#unit-testing)
 * [User Interface](#user-interface)
 	* [UI Components](#ui-components)
+	* [Starling Components](#starling-components)
 	* [Flex Components](#flex-components)
 	* [Layout](#layout)
 	* [Multi Touch](#multi-touch)
@@ -94,19 +96,24 @@
 * [StarlingMVC](https://github.com/CreativeBottle/starlingMVC) - IOC Framework for Starling based games
 
 #### UI Frameworks
+
+* [Starling](https://gamua.com/starling/) - High-performance 2D graphics engine built on Stage3D. API identical to Flash API. ([github](https://github.com/Gamua/Starling-Framework), [help](http://wiki.starling-framework.org/start))
+* [Feathers UI](https://feathersui.com/) - User interface components for Starling Framework ([github](https://github.com/BowlerHatLLC/feathers), [help](https://feathersui.com/help/index.html))
 * [Flow](https://github.com/artman/Flow) - A Flash layout, effects, data binding, remoting framework designed to be used instead of Flex when performance is essential.
 * [Swiz](https://github.com/swiz/swiz-framework) - a brutally simple micro-architecture for creating Rich Internet Applications with ActionScript 3 and Adobe Flex.
 * [Hiddenwood](https://github.com/raweden/Project-Hiddenwood) - A user interface library developed for a web app project, written in Actionscript 3 and in a MVC pattern.
 * [Elastic-Lists](https://github.com/MoritzStefaner/Elastic-Lists) - Fluid and powerful interface for facet browsing.
 
-#### Starling
+#### Game Frameworks
 
-* [Starling](https://github.com/Gamua/Starling-Framework) - The Cross Platform Game Engine
-* [Feathers UI](https://github.com/BowlerHatLLC/feathers) - User interface components for Starling Framework
-* [StarlingPunk](https://github.com/asaia/StarlingPunk) - Framework built on top the Starling to add structure and organization to your 2D game projects
-* [Fruitfly](https://github.com/richardlord/Fruitfly) - A library for dynamic creation of Starling display objects from native Flash display objects
-* [Pixelmask](https://github.com/jonathanhart/pixelmask) - A Starling Extension to provide pixel based masking for Starling display objects
-* [SpriterMC](https://github.com/SammyJoeOsborne/SpriterMC) - An AS3 Starling implementation for importing skeletal (and non-skeletal) animations generated with Spriter
+* [CitrusEngine](http://citrusengine.com/) - Professional-grade game engine built built on Starling & Away3D.
+* [StarlingPunk](https://github.com/asaia/StarlingPunk) - Framework built on Starling to add structure and organization to your game projects
+
+#### Animation
+
+* [GreenSock GSAP](https://greensock.com/gsap-as) - The industry-standard animation library for Flash (TweenLite, TweenMax) ([github](https://github.com/greensock/GreenSock-AS3))
+* [GTween](http://gskinner.com/libraries/gtween/) - small but robust library for programmatic tweening, animation, and transitions.
+* [DragonBones](http://dragonbones.github.io/) - High-speed skeletal animation using Starling & tools for Flash Pro.
 
 #### Signals
 * [AS3-signals](https://github.com/robertpenner/as3-signals) - A new approach for AS3 events inspired by C# events and signals/slots in Qt.
@@ -135,6 +142,17 @@
 * [Falcon](https://github.com/HendrixString/Falcon) - responsive/flexible mobile ui controls for Feathers
 * [Flex-maps](https://github.com/igorcosta/flex-maps) - the definitive solution for maps in Apache Flex
 * [FlexBook](https://github.com/blvz/FlexBook) - An awesome Page Flip component done in Flex.
+
+#### Starling Components
+
+* [TabbedApplication](https://github.com/pol2095/Feathers-Extension-Tabbed-Application) - view-based navigation model with swipe to navigate tabs.
+* [DataGrid](https://github.com/pol2095/Feathers-Extension-DataGrid) - displays a datagrid with column headings and smooth scrolling.
+* [DataTree](https://github.com/pol2095/Feathers-Extension-Tree) - displays hierarchical data arranged as an expandable tree.
+* [Canvas](https://github.com/pol2095/Feathers-Extension-Canvas) - supports basic vector drawing functionality.
+* [CircleProgress](https://github.com/pol2095/Feathers-Extension-CircleProgress) - displays progress using a radial progressbar.
+* [ZoomableControl](https://github.com/pol2095/Feathers-Extension-ZoomableControl) - allows a pinch to zoom using the multitouch inputs.
+* [Toaster](https://github.com/pol2095/Feathers-Extension-Toaster) - simple feedback about an operation in a small popup. 
+* [Google Maps](https://github.com/ZwickTheGreat/feathers-maps) - Google tiled-based maps for Starling, optimized for mobile devices.
 
 #### Layout
 
