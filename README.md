@@ -87,8 +87,8 @@
 ## Frameworks
 #### MVC Frameworks
 
-* [PureMVC](https://github.com/PureMVC/puremvc-as3-standard-framework) - PureMVC Standard Framework  ([multicore](https://github.com/PureMVC/puremvc-as3-multicore-framework))
-* [Robotlegs](https://github.com/robotlegs/robotlegs-framework) - Robotlegs framework for Flash and Flex
+* [PureMVC](https://github.com/PureMVC/puremvc-as3-standard-framework) - Industry-standard MVC framework for Flash ([multicore](https://github.com/PureMVC/puremvc-as3-multicore-framework))
+* [Robotlegs](https://github.com/robotlegs/robotlegs-framework) - Dependency injection, module/view/command management framework for Flash
 * [Hummingbird](https://github.com/flashapi/hummingbird) - Build and deploy robust MVC applications for AS3, Mobile and the Starling Framework.
 * [Apollo](https://github.com/LaurentZuijdwijk/Apollo) - Dependency injection and messaging framework, which can be used as the basis for MVC projects
 * [Somacore](https://github.com/soundstep/somacore_framework) - SomaCore is a lightweight event-based AS3 MVC framework.
@@ -99,7 +99,7 @@
 
 * [Starling](https://gamua.com/starling/) - High-performance 2D graphics engine built on Stage3D. API identical to Flash API. ([github](https://github.com/Gamua/Starling-Framework), [help](http://wiki.starling-framework.org/start))
 * [Feathers UI](https://feathersui.com/) - User interface components for Starling Framework ([github](https://github.com/BowlerHatLLC/feathers), [help](https://feathersui.com/help/index.html))
-* [Flow](https://github.com/artman/Flow) - Flash layout, effects, data binding, remoting framework designed to be used instead of Flex when performance is essential.
+* [Flow](https://github.com/artman/Flow) - Layout, effects, data binding and remoting framework to be used instead of Flex.
 * [Swiz](https://github.com/swiz/swiz-framework) - Brutally simple micro-architecture for creating RIAs with AS3 and Adobe Flex.
 * [Hiddenwood](https://github.com/raweden/Project-Hiddenwood) - User interface library developed for a web app project, written in Actionscript 3 and in a MVC pattern.
 * [Elastic-Lists](https://github.com/MoritzStefaner/Elastic-Lists) - Fluid and powerful interface for facet browsing.
@@ -113,7 +113,7 @@
 
 * [GreenSock GSAP](https://greensock.com/gsap-as) - The industry-standard animation library for Flash (TweenLite, TweenMax) ([github](https://github.com/greensock/GreenSock-AS3))
 * [GTween](http://gskinner.com/libraries/gtween/) - Small but robust library for programmatic tweening, animation, and transitions.
-* [DragonBones](http://dragonbones.github.io/) - High-speed skeletal animation using Starling & tools for Flash Pro.
+* [DragonBones](http://dragonbones.github.io/) - High-speed skeletal animation using Starling, and tools to export animations from Flash Pro.
 
 #### Signals
 * [AS3-signals](https://github.com/robertpenner/as3-signals) - New approach for AS3 events inspired by C# events and signals/slots in Qt.
@@ -278,14 +278,14 @@
 * [ActionMongo](https://github.com/RIAlizer/ActionMongo) - A MongoDB driver for ActionScript
 
 #### CouchDB
-* [AS3couchdb](https://github.com/bustardcelly/as3couchdb) - An AS3 clientside API for interacting with a CouchDB instance.
+* [AS3couchdb](https://github.com/bustardcelly/as3couchdb) - AS3 clientside API for interacting with a CouchDB instance.
 * [Soup](https://github.com/dima/soup) - Mixing CouchDB, Sinatra, AIR and RestfulX to create an offline/online ready app with undo/redo capabilities.
 
 #### MySQL
-* [AS3mysql](https://github.com/hgupta9/as3mysql) - An AS3 driver for the MySQL open source database.
+* [AS3mysql](https://github.com/hgupta9/as3mysql) - AS3 driver for the MySQL open source database.
 
 #### PostgreSQL
-* [Pegasus](https://github.com/uhoh-itsmaciek/pegasus) - An AS3 driver for the PostgreSQL open source database.
+* [Pegasus](https://github.com/uhoh-itsmaciek/pegasus) - AS3 driver for the PostgreSQL open source database.
 
 #### DynamoDB
 * [AWS-dynamodb](https://github.com/ferf/aws-dynamodb-actionscript) - An actionscript library for accessing Amazon's AWS DynamoDB
@@ -374,7 +374,7 @@
 
 #### SVG
 
-* [AS3SVGRenderer](https://github.com/LucasLorentz/AS3SVGRenderer) - An AS3 SVG Renderer for Flash Player.
+* [AS3SVGRenderer](https://github.com/LucasLorentz/AS3SVGRenderer) - AS3 SVG Renderer for Flash Player.
 * [SVGParser](https://github.com/millermedeiros/SVGParser) - AS3 SVG parser to FIVe3D and HTML5 canvas
 
 #### XML
@@ -564,4 +564,3 @@
 * [baidu](https://github.com/lilili87222/baidu-ane-for-ios-and-android) - Baidu ANE for for ios and android
 * [testflight](https://github.com/jlopez/ane-testflight) - Apple TestFlight ANE
 * [Chartboost](https://github.com/ChartBoost/air) - ANE for the Chartboost SDK with compile scripts.
-
