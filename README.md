@@ -91,7 +91,7 @@
 * [Robotlegs](https://github.com/robotlegs/robotlegs-framework) - Dependency injection, module/view/command management framework for Flash
 * [Hummingbird](https://github.com/flashapi/hummingbird) - Build and deploy robust MVC applications for AS3, Mobile and the Starling Framework.
 * [Apollo](https://github.com/LaurentZuijdwijk/Apollo) - Dependency injection and messaging framework, which can be used as the basis for MVC projects
-* [Somacore](https://github.com/soundstep/somacore_framework) - SomaCore is a lightweight event-based AS3 MVC framework.
+* [Somacore](https://github.com/soundstep/somacore_framework) - lightweight event-based AS3 MVC framework.
 * [Kote](https://github.com/whitered/Kote) - fast and lightweight MVC framework that brings together the best of PureMVC and as3-signals
 * [StarlingMVC](https://github.com/CreativeBottle/starlingMVC) - IOC Framework for Starling based games
 
