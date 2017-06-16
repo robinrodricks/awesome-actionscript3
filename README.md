@@ -23,6 +23,7 @@
 	* [Flex Components](#flex-components)
 	* [Layout](#layout)
 	* [Multi Touch](#multi-touch)
+	* [Game Controllers](#game-controllers)
 * [Multimedia](#multimedia)
 	* [Video Player](#video-player)
 	* [Camera](#camera)
@@ -177,6 +178,13 @@
 * [Gestouch](https://github.com/fljot/Gestouch) - Gestouch: multitouch gesture recognition library for Flash (ActionScript) development.
 * [Gesturesio-as3](https://github.com/GesturesIO/gesturesio-as3) - Gestures.IO - AS3 library and demos
 * [TouchScript.as3](https://github.com/TouchScript/TouchScript.as3) - Multitouch framework for Flash
+
+#### Game Controllers
+
+* [AS3dpad](https://github.com/duckleg/as3dpad) - A virtual touchscreen gamepad designed for Adobe AIR Mobile (Android/iOS).
+* [Gamepad](https://github.com/iainlobb/Gamepad) - Simulates an analog joystick input using the keyboard.
+* [Advanced_Joystick](https://github.com/justjoeyuk/Advanced_Joystick) - Joystick for the Starling Framework, designed for Adobe AIR Mobile.
+* [AS3-Controller-Input](https://github.com/arkeus/as3-controller-input) - Interact with Ouya and Xbox360 game controllers from Adobe AIR.
 
 ## Multimedia
 #### Video Player
