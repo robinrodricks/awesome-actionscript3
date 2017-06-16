@@ -15,8 +15,8 @@
 	* [Game Frameworks](#game-frameworks)
 	* [Animation](#animation)
 	* [Signals](#signals)
+	* [Functional](#functional)
 	* [Unit Testing](#unit-testing)
-	* [Functional Programming](#functional-programming)
 * [User Interface](#user-interface)
 	* [UI Components](#ui-components)
 	* [Starling Components](#starling-components)
@@ -76,6 +76,11 @@
 	* [Alternativa3D](#alternativa3d)
 	* [Papervision3D](#papervision3d)
 	* [2D Engines](#2d-engines)
+* [Utilities](#utilities)
+	* [Text](#text)
+	* [Math](#math)
+	* [Geometry](#geometry)
+	* [Crypto](#crypto)
 * [Runtimes](#runtimes)
 	* [Emulators](#emulators)
 	* [Interpreters](#interpreters)
@@ -124,6 +129,12 @@
 * [Signaller](https://github.com/whitered/Signaller) - Signals implementation with restricted rights for dispatching
 * [Fa-as3](https://github.com/fabrikagency/fa-as3) - Write less, do more framework, modeled like jQuery.
 
+#### Functional
+
+* [AS3FP](https://github.com/jadbox/AS3FP) - Collection of functional idioms based on Haskell and Coffeescript.
+* [Raix](https://github.com/richardszalay/raix) - Reactive And Interactive eXtensions simplifies working with interactive data (arrays) or reactive data (events).
+* [Fxp-as3](https://github.com/j3k0/fxp-as3) - Functional library inspired by the "mostly adequate guide".
+
 #### Unit Testing
 
 * [AS3unit](https://github.com/Hoten/as3unit) - Unit testing framework for ActionScript 3
@@ -133,12 +144,6 @@
 * [Flexunit](https://github.com/flexunit/flexunit) - FlexUnit project for Actionscript 3 and Flex projects.
 * [ASunit](https://github.com/patternpark/asunit) - The only unit test framework that supports Flash Players 6, 7, 8, 9 and 10
 * [RobotEyes](https://github.com/Stray/RobotEyes) - End-to-end testing for TDD. Hybrid of WindowLicker and Drew Bourne's Mockolate.
-
-#### Functional Programming
-
-* [AS3FP](https://github.com/jadbox/AS3FP) - Collection of functional idioms based on Haskell and Coffeescript.
-* [Raix](https://github.com/richardszalay/raix) - Reactive And Interactive eXtensions simplifies working with interactive data (arrays) or reactive data (events).
-* [Fxp-as3](https://github.com/j3k0/fxp-as3) - Functional library inspired by the "mostly adequate guide".
 
 ## User Interface
 #### UI Components
@@ -508,6 +513,39 @@
 * [nd2d](https://github.com/lrrrs/nd2d) - A Flash Molehill (Stage3D) GPU accelerated 2D game engine
 * [ND2Dx](https://github.com/NoRabbit/ND2Dx) - 2D GPU Accelerated Game Engine for Flash Stage3D
 * [Nexus](https://github.com/tversteeg/Nexus) - Actionscript 3, GPU accelerated 2D game engine using Stage3D
+
+## Utilities
+
+#### Text
+
+* [Linkify-as3](https://github.com/CodeCatalyst/linkify-as3) - Convert URLs, e-mail addresses, phone numbers, into clickable links.
+* [AS3hyphenation](https://github.com/gka/as3hyphenation) - Port of the Javascript text hyphenation library Hyphenator.js.
+
+#### Math
+
+* [AS3Units](https://github.com/erussell/AS3Units) - Port of NGUnits. Parsing, formatting, and converting between units of measure.
+* [AS3LinAlg](https://github.com/inspirit/AS3LinAlg) - AS3 Linear Algebra library
+* [Zexpression](https://github.com/Xorcerer/zexpression) - Parse and evalate math expressions with functions and variables.
+* [FlexibleMatrix](https://github.com/Lukx/FlexibleMatrix) - A multi purpose Matrix class
+* [AS3eval](http://eval.hurlant.com/) - Packages the Tamarin ESC compiler to work within Flash Player. ([alternate](https://github.com/SimonRichardson/as3-eval))
+* [FlashFormulaEditor](https://github.com/zasdfgbnm/FlashFormulaEditor) - Formula editor made in Adobe Flex.
+
+#### Geometry
+
+* [AS3geometry](https://github.com/alecmce/as3geometry) - Primitives, Polygons, Intersections, etc.
+* [AS3GeomAlgo](https://github.com/azrafe7/as3GeomAlgo) - Collection of geometry algorithms. Port of hxGeomAlgo.
+* [Csg.as](https://github.com/timknip/csg.as) - Constructive Solid Geometry for AS3
+* [PathUtils](https://github.com/alinakipoglu/Actionscript-PathUtils) - Working with quadratic, bezier and line sequences.
+* [Hilbert](https://github.com/nodename/Hilbert) - Port of Hilbert curve from cortesi/scurve.
+* [AS3AStar](https://github.com/tomnewton/AS3AStar) - Fast A-Star pathfinding algorithm.
+* [A-star_pathfinder](https://github.com/kevhiggins/a-star_pathfinder) - A-Star pathfinding interface for tile based maps.
+* [As3Pathfinder](https://github.com/azakhary/As3Pathfinder) - Grid Path finding Library written using Dijkstra's algorithm.
+* [Coral](https://github.com/richardlord/Coral) - A library of Actionscript 3 classes for 3D Mathematics.
+
+#### Crypto
+
+* [hashlib](https://github.com/Corsaair/hashlib) - Hashing utility functions for ActionScript 3.0
+* [AS3corelib](https://github.com/mikechambers/as3corelib) -  MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs.
 
 ## Runtimes
 
