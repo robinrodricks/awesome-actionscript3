@@ -544,8 +544,15 @@
 
 #### Crypto
 
-* [hashlib](https://github.com/Corsaair/hashlib) - Hashing utility functions for ActionScript 3.0
-* [AS3corelib](https://github.com/mikechambers/as3corelib) -  MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs.
+* [BlooddyCrypto](https://github.com/blooddy/blooddy_crypto) - High-performance library for processing binary data. This library contains MD5, SHA-1, SHA-2, Base64, CRC32, JSON, PNG/JPEG encoders.
+* [AS3Crypto](https://github.com/timkurvers/as3-crypto) - Fork of Henri Torgemane's excellent cryptography library ([patched](https://github.com/lyokato/as3crypto_patched))
+* [AS3corelib](https://github.com/mikechambers/as3corelib) -  MD5 and SHA1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs.
+* [ASCrypt](https://github.com/Meychi/ASCrypt) - Crypto library with a similar API for multiple languages.
+* [Nexuslib](https://github.com/nexussays/nexuslib-as3) - Reflection, serialization, seeded random number generation, cryptography, networking, and more.
+* [Hashlib](https://github.com/Corsaair/hashlib) - Over 30 different hashing functions.
+* [XXTEA-AS3](https://github.com/xxtea/xxtea-as3) - XXTEA encryption algorithm library for ActionScript 3.
+* [Gibberish-AES](https://github.com/NordMike/gibberish-aes-as3) - A fully OpenSSL compliant ActionScript 3 library for AES encryption.
+
 
 ## Runtimes
 
