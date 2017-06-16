@@ -319,7 +319,9 @@
 
 #### Archives
 
-* [Untar-worker](https://github.com/mesmotronic/as3-worker-untar) - TAR extraction using AS3 Workers (background threads)
+* [FZip](https://github.com/claus/fzip) - Mature library to load, modify and create standard ZIP archives.
+* [ASZip](https://code.google.com/archive/p/aszip/) - Generate ZIP archives from AS3. ([post](http://www.bytearray.org/?p=105))
+* [Untar-Worker](https://github.com/mesmotronic/as3-worker-untar) - TAR extraction using AS3 Workers (background threads)
 
 #### 3D Formats
 
@@ -516,19 +518,16 @@
 
 ## Utilities
 
-#### Text
+#### Crypto
 
-* [Linkify-as3](https://github.com/CodeCatalyst/linkify-as3) - Convert URLs, e-mail addresses, phone numbers, into clickable links.
-* [AS3hyphenation](https://github.com/gka/as3hyphenation) - Port of the Javascript text hyphenation library Hyphenator.js.
-
-#### Math
-
-* [AS3Units](https://github.com/erussell/AS3Units) - Port of NGUnits. Parsing, formatting, and converting between units of measure.
-* [AS3LinAlg](https://github.com/inspirit/AS3LinAlg) - AS3 Linear Algebra library
-* [Zexpression](https://github.com/Xorcerer/zexpression) - Parse and evalate math expressions with functions and variables.
-* [FlexibleMatrix](https://github.com/Lukx/FlexibleMatrix) - A multi purpose Matrix class
-* [AS3eval](http://eval.hurlant.com/) - Packages the Tamarin ESC compiler to work within Flash Player. ([alternate](https://github.com/SimonRichardson/as3-eval))
-* [FlashFormulaEditor](https://github.com/zasdfgbnm/FlashFormulaEditor) - Formula editor made in Adobe Flex.
+* [BlooddyCrypto](https://github.com/blooddy/blooddy_crypto) - High-performance library for processing binary data. This library contains MD5, SHA-1, SHA-2, Base64, CRC32, JSON, PNG/JPEG encoders.
+* [AS3Crypto](https://github.com/timkurvers/as3-crypto) - Fork of Henri Torgemane's excellent cryptography library ([patched](https://github.com/lyokato/as3crypto_patched))
+* [AS3corelib](https://github.com/mikechambers/as3corelib) -  MD5 and SHA1 hashing, Image encoders, and JSON serialization.
+* [ASCrypt](https://github.com/Meychi/ASCrypt) - Crypto library with a similar API for multiple languages.
+* [Nexuslib](https://github.com/nexussays/nexuslib-as3) - Reflection, serialization, seeded random number generation, cryptography, networking, and more.
+* [Hashlib](https://github.com/Corsaair/hashlib) - Over 30 different hashing functions.
+* [XXTEA-AS3](https://github.com/xxtea/xxtea-as3) - XXTEA encryption algorithm library for ActionScript 3.
+* [Gibberish-AES](https://github.com/NordMike/gibberish-aes-as3) - A fully OpenSSL compliant ActionScript 3 library for AES encryption.
 
 #### Geometry
 
@@ -542,17 +541,19 @@
 * [As3Pathfinder](https://github.com/azakhary/As3Pathfinder) - Grid Path finding Library written using Dijkstra's algorithm.
 * [Coral](https://github.com/richardlord/Coral) - A library of Actionscript 3 classes for 3D Mathematics.
 
-#### Crypto
+#### Math
 
-* [BlooddyCrypto](https://github.com/blooddy/blooddy_crypto) - High-performance library for processing binary data. This library contains MD5, SHA-1, SHA-2, Base64, CRC32, JSON, PNG/JPEG encoders.
-* [AS3Crypto](https://github.com/timkurvers/as3-crypto) - Fork of Henri Torgemane's excellent cryptography library ([patched](https://github.com/lyokato/as3crypto_patched))
-* [AS3corelib](https://github.com/mikechambers/as3corelib) -  MD5 and SHA1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs.
-* [ASCrypt](https://github.com/Meychi/ASCrypt) - Crypto library with a similar API for multiple languages.
-* [Nexuslib](https://github.com/nexussays/nexuslib-as3) - Reflection, serialization, seeded random number generation, cryptography, networking, and more.
-* [Hashlib](https://github.com/Corsaair/hashlib) - Over 30 different hashing functions.
-* [XXTEA-AS3](https://github.com/xxtea/xxtea-as3) - XXTEA encryption algorithm library for ActionScript 3.
-* [Gibberish-AES](https://github.com/NordMike/gibberish-aes-as3) - A fully OpenSSL compliant ActionScript 3 library for AES encryption.
+* [AS3Units](https://github.com/erussell/AS3Units) - Port of NGUnits. Parsing, formatting, and converting between units of measure.
+* [AS3LinAlg](https://github.com/inspirit/AS3LinAlg) - AS3 Linear Algebra library
+* [Zexpression](https://github.com/Xorcerer/zexpression) - Parse and evalate math expressions with functions and variables.
+* [FlexibleMatrix](https://github.com/Lukx/FlexibleMatrix) - A multi purpose Matrix class
+* [AS3eval](http://eval.hurlant.com/) - Packages the Tamarin ESC compiler to work within Flash Player. ([alternate](https://github.com/SimonRichardson/as3-eval))
+* [FlashFormulaEditor](https://github.com/zasdfgbnm/FlashFormulaEditor) - Formula editor made in Adobe Flex.
 
+#### Text
+
+* [Linkify-as3](https://github.com/CodeCatalyst/linkify-as3) - Convert URLs, e-mail addresses, phone numbers, into clickable links.
+* [AS3hyphenation](https://github.com/gka/as3hyphenation) - Port of the Javascript text hyphenation library Hyphenator.js.
 
 ## Runtimes
 
