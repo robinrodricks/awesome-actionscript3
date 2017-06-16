@@ -77,10 +77,11 @@
 	* [Papervision3D](#papervision3d)
 	* [2D Engines](#2d-engines)
 * [Utilities](#utilities)
-	* [Text](#text)
-	* [Math](#math)
-	* [Geometry](#geometry)
+	* [Async](#async)
 	* [Crypto](#crypto)
+	* [Geometry](#geometry)
+	* [Math](#math)
+	* [Text](#text)
 * [Runtimes](#runtimes)
 	* [Emulators](#emulators)
 	* [Interpreters](#interpreters)
@@ -255,6 +256,7 @@
 * [Angulex](https://github.com/cosmindolha/ParticleDesigner) - Particle Designer for the Starling framework (ActionScript 3)
 * [SAP](https://github.com/gonchar/SAP) - Particle System for Starling
 * [Starling-Particles](https://github.com/Gamua/Starling-Extension-Particle-System) - A particle system for the Starling framework, compatible with the "Particle Designer" from 71squared.com
+* [MotionParticleSprite](https://github.com/bjeld/motionparticlesprite) - Design motion paths in Flash Pro and use it to guide Starling particles.
 
 #### Data Visualization
 
@@ -522,6 +524,12 @@
 
 ## Utilities
 
+#### Async
+
+* [EasyAS-Worker](https://github.com/myflashlab/easyAS-Worker) - Simplified wrapper for AIR Workers
+* [Worker-from-class](https://github.com/bortsen/worker-from-class) - Create Workers from Class definitions
+* [AS3Futures](https://github.com/brianheylin/AS3Futures) - Simplifies making a series of async function calls
+
 #### Crypto
 
 * [BlooddyCrypto](https://github.com/blooddy/blooddy_crypto) - High-performance library for processing binary data. This library contains MD5, SHA-1, SHA-2, Base64, CRC32, JSON, PNG/JPEG encoders.
@@ -619,7 +627,6 @@
 * [RateMe](https://github.com/myflashlab/RateMe-ANE) - Rate Me ANE lets you ask your users to rate your app in the most efficient way
 * [Statusbar](https://github.com/myflashlab/Statusbar-ANE) - Control the Statusbar in your AIR apps in runtime with this ANE
 * [Badge](https://github.com/myflashlab/Badge-ANE) - This ANE lets you control the iOS badge value directly from Adobe AIR app
-* [easyAS-Worker](https://github.com/myflashlab/easyAS-Worker) - Run AS worker in your AIR projects without having to deal with complicated flash.system.Worker class
 * [Can-Open-URL](https://github.com/StickSports/ANE-Can-Open-URL) - ANE for iOS to detect whether an app is installed to handle a specific URL scheme.
 
 #### Social ANE
