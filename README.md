@@ -16,6 +16,7 @@
 	* [Animation](#animation)
 	* [Signals](#signals)
 	* [Unit Testing](#unit-testing)
+	* [Functional Programming](#functional-programming)
 * [User Interface](#user-interface)
 	* [UI Components](#ui-components)
 	* [Starling Components](#starling-components)
@@ -42,6 +43,7 @@
 	* [DynamoDB](#dynamodb)
 	* [Redis](#redis)
 * [File Formats](#file-formats)
+	* [Archives](#archives)
 	* [3D Formats](#3d-formats)
 	* [CSV](#csv)
 	* [CSS](#css)
@@ -128,7 +130,14 @@
 * [expect.as](https://github.com/krzysztof-o/expect.as) - BDD-style assertion library for ActionScript 3
 * [AS3spec](https://github.com/f1337/as3spec) - Tiny BDD framework for AS3, inspired by Bacon and RSpec
 * [Flexunit](https://github.com/flexunit/flexunit) - FlexUnit project for Actionscript 3 and Flex projects.
-* [ASunit](https://github.com/patternpark/asunit) - The only AS3 unit test framework that supports Flash Players 6, 7, 8, 9 and 10
+* [ASunit](https://github.com/patternpark/asunit) - The only unit test framework that supports Flash Players 6, 7, 8, 9 and 10
+* [RobotEyes](https://github.com/Stray/RobotEyes) - End-to-end testing for TDD. Hybrid of WindowLicker and Drew Bourne's Mockolate.
+
+#### Functional Programming
+
+* [AS3FP](https://github.com/jadbox/AS3FP) - Collection of functional idioms based on Haskell and Coffeescript.
+* [Raix](https://github.com/richardszalay/raix) - Reactive And Interactive eXtensions simplifies working with interactive data (arrays) or reactive data (events).
+* [Fxp-as3](https://github.com/j3k0/fxp-as3) - Functional library inspired by the "mostly adequate guide".
 
 ## User Interface
 #### UI Components
@@ -294,6 +303,10 @@
 * [AS3redis](https://github.com/zhangq0355/as3redis) - An Actionscript 3 library for Redis
 
 ## File Formats
+
+#### Archives
+
+* [Untar-worker](https://github.com/mesmotronic/as3-worker-untar) - TAR extraction using AS3 Workers (background threads)
 
 #### 3D Formats
 
