@@ -297,14 +297,15 @@
 
 #### 3D Formats
 
-* [Ascollada](https://github.com/timknip/ascollada) - AS3 library to parse COLLADA 3D model files ([fork](https://github.com/david-gregory/ascollada))
-* [Asblender](https://github.com/timknip/asblender) - AS3 library for reading Blender .BLEND files
+* [AsCollada](https://github.com/timknip/ascollada) - AS3 library to parse COLLADA 3D model files ([fork](https://github.com/david-gregory/ascollada))
+* [AsBlender](https://github.com/timknip/asblender) - AS3 library for reading Blender .BLEND files
 * [AS3-bvh-parser](https://github.com/rkn14/as3-bvh-parser) - AS3 parser for BVH files
+* [EasyAGAL](https://github.com/Barliesque/EasyAGAL) - Simplifies development of AGAL shaders with code completion, code hinting,  macros, etc.
 
 #### CSV
 
 * [CSV4AS3](https://github.com/lizardon/CSV4AS3) - CSV library ported from Apache Commons CSV
-* [csvlib](https://github.com/51systems/csvlib) - CSV parser
+* [Csvlib](https://github.com/51systems/csvlib) - CSV parser
 
 #### CSS
 
@@ -322,7 +323,7 @@
 #### EXIF
 
 * [AS3-exif-lib](https://github.com/unstoppable/actionscript-exif-reading-lib) - AS3 library to read JPEG EXIF data
-* [exif-as3](https://github.com/bashi/exif-as3) -  AS3 library to read JPEG EXIF data
+* [Exif-as3](https://github.com/bashi/exif-as3) -  AS3 library to read JPEG EXIF data
 
 #### FXG
 
@@ -338,7 +339,7 @@
 #### JSON
 
 * [Actionjson](https://github.com/mherkender/actionjson) - A faster, more advanced ActionScript 3 JSON library
-* [jameson](https://github.com/mattupstate/jameson) - ActionScript 3 JSON Document Object Mapper
+* [Jameson](https://github.com/mattupstate/jameson) - ActionScript 3 JSON Document Object Mapper
 * [Serialkiller](https://github.com/benbjohnson/serialkiller) - ActionScript JSON & XML serialization library
 * [JsonMapper](https://github.com/kemsky/JsonMapper) - Typed JSON parser for ActionScript
 * [JSONTools](https://github.com/s9tpepper/JSONTools) - JSON errors, the speed of the JSWoof JSON library, and E4X style queries dubbed E4J
@@ -347,7 +348,7 @@
 
 * [Showdown.as](https://gist.github.com/cstrahan/648771) - AS3 port of showdown.js
 * [Actiondown](https://github.com/bbeaumont/Actiondown) - AS3 port of Javascript Showdown
-* [markdownlib](https://github.com/Corsaair/markdownlib) - AS3 implementation of Markdown
+* [Markdownlib](https://github.com/Corsaair/markdownlib) - AS3 implementation of Markdown
 
 #### MP3
 
