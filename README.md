@@ -52,6 +52,7 @@
 	* [EXIF](#exif)
 	* [FXG](#fxg)
 	* [GIF](#gif)
+	* [ICAL](#ical)
 	* [JSON](#json)
 	* [Markdown](#markdown)
 	* [MP3](#mp3)
@@ -370,6 +371,10 @@
 * [AS3gif](https://github.com/audreyt/as3gif) - Play and encode animated GIF's
 * [GIF Player](https://github.com/theturtle32/Flash-Animated-GIF-Library) - Playing Animated GIFs in Flash
 * [Async-gif-decoder](https://github.com/honzabrecka/async-gif-decoder) - asynchronous GIF decoder & player
+
+#### ICAL
+
+* [AS3iCAL](https://github.com/nicolai86/as3.iCal) - iCal parser for AS3, based on the RFC2445 specification.
 
 #### JSON
 
