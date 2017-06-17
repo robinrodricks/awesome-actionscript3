@@ -184,9 +184,10 @@
 
 #### Multi Touch
 
-* [AS3TouchLib](https://github.com/turbosqel/AS3TouchLib) - AS3 touch library for read CCV TCP/FlashXML data, TUIO UDP/TCP or TouchEvents from other devices
-* [Gestouch](https://github.com/fljot/Gestouch) - Gestouch: multitouch gesture recognition library for Flash (ActionScript) development.
-* [Gesturesio-as3](https://github.com/GesturesIO/gesturesio-as3) - Gestures.IO - AS3 library and demos
+* [AS3TouchLib](https://github.com/turbosqel/AS3TouchLib) - Touch library for read CCV TCP/FlashXML data, TUIO UDP/TCP or TouchEvents from other devices
+* [TUIO Client](https://github.com/lagerkoller/tuio-as3) - Common framework for multi-touch hardware, supporting TUIO/FLC and TUIO/TCP ([web](http://www.tuio.org/?flash))
+* [Gestouch](https://github.com/fljot/Gestouch) - Multitouch gesture recognition library
+* [Gesturesio-as3](https://github.com/GesturesIO/gesturesio-as3) - Gestures.IO AS3 library and demos
 * [TouchScript.as3](https://github.com/TouchScript/TouchScript.as3) - Multitouch framework for Flash
 
 #### Game Controllers
