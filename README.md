@@ -80,6 +80,7 @@
 * [Utilities](#utilities)
 	* [Async](#async)
 	* [Crypto](#crypto)
+	* [Data](#data)
 	* [Geometry](#geometry)
 	* [Math](#math)
 	* [Text](#text)
@@ -110,8 +111,9 @@
 * [Starling](https://gamua.com/starling/) - High-performance 2D graphics engine built on Stage3D. API identical to Flash API. ([github](https://github.com/Gamua/Starling-Framework), [help](http://wiki.starling-framework.org/start))
 * [Feathers UI](https://feathersui.com/) - User interface components for Starling Framework ([github](https://github.com/BowlerHatLLC/feathers), [help](https://feathersui.com/help/index.html))
 * [Flow](https://github.com/artman/Flow) - Layout, effects, data binding and remoting framework to be used instead of Flex.
+* [AS3Commons UI](https://github.com/AS3Commons/as3commons-ui) - Layouting, focus and keyboard management framework ([site](http://sibirjak.com/osflash/projects/as3commons-ui/))
 * [Swiz](https://github.com/swiz/swiz-framework) - Brutally simple micro-architecture for creating RIAs with AS3 and Adobe Flex.
-* [Hiddenwood](https://github.com/raweden/Project-Hiddenwood) - User interface library developed for a web app project, written in Actionscript 3 and in a MVC pattern.
+* [Hiddenwood](https://github.com/raweden/Project-Hiddenwood) - User interface library developed for a web app project, written in AS3 and in a MVC pattern.
 * [Elastic-Lists](https://github.com/MoritzStefaner/Elastic-Lists) - Fluid and powerful interface for facet browsing.
 
 #### Game Frameworks
@@ -546,6 +548,10 @@
 * [Hashlib](https://github.com/Corsaair/hashlib) - Over 30 different hashing functions.
 * [XXTEA-AS3](https://github.com/xxtea/xxtea-as3) - XXTEA encryption algorithm library for ActionScript 3.
 * [Gibberish-AES](https://github.com/NordMike/gibberish-aes-as3) - A fully OpenSSL compliant ActionScript 3 library for AES encryption.
+
+#### Data
+
+* [AS3Commons Collections](https://github.com/AS3Commons/as3commons-collections) - Sophisticated and high-performance collections & iterators for AS3 ([website](http://sibirjak.com/osflash/projects/as3commons-collections/))
 
 #### Geometry
 
