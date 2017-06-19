@@ -229,7 +229,7 @@
 * [AS3-audio](https://github.com/singuerinc/as3-audio) - Audio Management in Actionscript
 * [SiON](https://github.com/keim/SiON) - Flash Software Synthesizer
 * [FlashWavRecorder](https://github.com/michalstocki/FlashWavRecorder) - Simple flash file for recording audio and saving as a WAV
-* [local-recorder](https://github.com/pauln/local-audio-recorder) - Local audio recorder (no streaming server required).  Currently requires Flash Player 10.1 or above.
+* [Local-recorder](https://github.com/pauln/local-audio-recorder) - Local audio recorder (no streaming server required).  Currently requires Flash Player 10.1 or above.
 * [Jukebox](https://github.com/AlwynW/Jukebox) - Music manager for Actionscript 3 projects
 * [Flod](https://github.com/photonstorm/Flod) - AS3 Amiga SoundTracker (MOD) and FastTracker (XM) Replay Library
 
@@ -395,13 +395,14 @@
 #### MP3
 
 * [AS3id3lib](https://github.com/devxoul/as3id3lib) - AS3 library to read MP3 ID3 data.
+* [AS3Icy](https://github.com/claus/as3icy) - Decode and play live MP3 streams from Shoutcast, Icecast and Limewire.
 
 #### PDF
 
 * [AlivePDF](https://code.google.com/archive/p/alivepdf/) - Client side PDF generation ([docs](http://alivepdf.bytearray.org/), [github](https://github.com/riadvice/alivepdf))
 * [PurePDF](https://github.com/sephiroth74/purePDF) - Complete PDF library, port of Java iText
 * [HalcyonPDF](https://github.com/systemed/halcyon_pdf) - OpenStreetMap PDF renderer
-* [Pdfcase](https://github.com/dickclaus/pdfcase) - PDF Library
+* [PDFCase](https://github.com/dickclaus/pdfcase) - PDF Library
 * [PDFView](https://github.com/jankapunkt/PDFView) - PDF viewer built from scratch
 
 #### PSD
