@@ -539,14 +539,14 @@
 
 #### Artificial Intelligence
 
-* [FiniteStateMachine](https://github.com/pzUH/FiniteStateMachine) - An implementation of Finite State Machine in ActionScript 3.0 for AI bot/agent in a video games
-* [N-GramPredictor](https://github.com/pzUH/N-GramPredictor) - A simple implementation of n-Gram predictor in ActionScript 3.0 for AI bot/agent in a video games
-* [Naive-BayesPredictor](https://github.com/pzUH/Naive-BayesPredictor) - An implementation of Naive-Bayes predictor in ActionScript 3.0 for AI bot/agent in a video games.
-* [HierarchicalStateMachine](https://github.com/pzUH/HierarchicalStateMachine) - An implementation of Hierarchical State Machine in ActionScript 3.0 for AI bot/agent in a video games
-* [DecisionTree](https://github.com/pzUH/DecisionTree) - An ActionScript 3.0 binary decision tree for AI bot/agent in a video games
-* [FuzzyStateMachine](https://github.com/pzUH/FuzzyStateMachine) - An implementation of Fuzzy State Machine (FuSM) in ActionScript 3.0 for AI bot/agent in a video games
-* [SmartKid](https://github.com/skyfeiyun/SmartKid) - SmartKid is a powerful AI engine for 2D&3D with actionScript. The project is especially for the 3D engine Nest3D.
-* [Godmode-as3](https://github.com/tconkling/godmode-as3) - A behavior tree implementation (artificial intelligence)
+* [FiniteStateMachine](https://github.com/pzUH/FiniteStateMachine) - Finite State Machine for AI bot/agent in a video games
+* [N-GramPredictor](https://github.com/pzUH/N-GramPredictor) - n-Gram predictor for AI bot/agent in a video games
+* [Naive-BayesPredictor](https://github.com/pzUH/Naive-BayesPredictor) - Naive-Bayes predictor for AI bot/agent in a video games.
+* [HierarchicalStateMachine](https://github.com/pzUH/HierarchicalStateMachine) - Hierarchical State Machine for AI bot/agent in a video games
+* [Godmode-as3](https://github.com/tconkling/godmode-as3) - Behavior tree implementation (artificial intelligence)
+* [DecisionTree](https://github.com/pzUH/DecisionTree) - Binary decision tree for AI bot/agent in a video games
+* [FuzzyStateMachine](https://github.com/pzUH/FuzzyStateMachine) - Fuzzy State Machine (FuSM) for AI bot/agent in a video games
+* [SmartKid](https://github.com/skyfeiyun/SmartKid) - Powerful AI engine for 2D&3D with AS3
 
 #### Async
 
