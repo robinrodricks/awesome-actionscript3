@@ -78,6 +78,7 @@
 	* [Papervision3D](#papervision3d)
 	* [2D Engines](#2d-engines)
 * [Utilities](#utilities)
+	* [Artificial Intelligence](#artificial-intelligence)
 	* [Async](#async)
 	* [Crypto](#crypto)
 	* [Data](#data)
@@ -535,6 +536,17 @@
 * [Nexus](https://github.com/tversteeg/Nexus) - Actionscript 3, GPU accelerated 2D game engine using Stage3D
 
 ## Utilities
+
+#### Artificial Intelligence
+
+* [FiniteStateMachine](https://github.com/pzUH/FiniteStateMachine) - An implementation of Finite State Machine in ActionScript 3.0 for AI bot/agent in a video games
+* [N-GramPredictor](https://github.com/pzUH/N-GramPredictor) - A simple implementation of n-Gram predictor in ActionScript 3.0 for AI bot/agent in a video games
+* [Naive-BayesPredictor](https://github.com/pzUH/Naive-BayesPredictor) - An implementation of Naive-Bayes predictor in ActionScript 3.0 for AI bot/agent in a video games.
+* [HierarchicalStateMachine](https://github.com/pzUH/HierarchicalStateMachine) - An implementation of Hierarchical State Machine in ActionScript 3.0 for AI bot/agent in a video games
+* [DecisionTree](https://github.com/pzUH/DecisionTree) - An ActionScript 3.0 binary decision tree for AI bot/agent in a video games
+* [FuzzyStateMachine](https://github.com/pzUH/FuzzyStateMachine) - An implementation of Fuzzy State Machine (FuSM) in ActionScript 3.0 for AI bot/agent in a video games
+* [SmartKid](https://github.com/skyfeiyun/SmartKid) - SmartKid is a powerful AI engine for 2D&3D with actionScript. The project is especially for the 3D engine Nest3D.
+* [Godmode-as3](https://github.com/tconkling/godmode-as3) - A behavior tree implementation (artificial intelligence)
 
 #### Async
 
