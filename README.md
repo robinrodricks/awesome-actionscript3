@@ -128,6 +128,8 @@
 * [Flixel](https://github.com/AdamAtomic/flixel) - Useful base classes that you can extend to make your own game objects.
 * [Tetragon](https://github.com/NothingInteractive/tetragon) - Cross-platform framework to build any kind of game. Provides resource management, debugging facilities, multi-locale support, layered extendability, a game-oriented data structure, and more.
 * [Pixelizer](https://github.com/johanp/Pixelizer) - Component based game engine to build 2D games. Provides rendering, animation, input, etc.
+* [AS3isolib](https://github.com/as3isolib/as3isolib.v1) - Isometric Library developed to assist in creating isometrically projected games.
+* [IsoHill](https://github.com/jadbox/IsoHill-Game-Engine) - GPU-based Isometric engine built on Starling, with TILED map parser, layers, etc ([website](http://www.isohill.com/))
 
 #### Animation
 
@@ -573,18 +575,19 @@
 
 * [AS3geometry](https://github.com/alecmce/as3geometry) - Primitives, Polygons, Intersections, etc.
 * [AS3GeomAlgo](https://github.com/azrafe7/as3GeomAlgo) - Collection of geometry algorithms. Port of hxGeomAlgo.
+* [Coral](https://github.com/richardlord/Coral) - High-performance classes for 3D mathematics (Point, Vector, Matrix, Quaternion)
 * [Csg.as](https://github.com/timknip/csg.as) - Constructive Solid Geometry for AS3
 * [PathUtils](https://github.com/alinakipoglu/Actionscript-PathUtils) - Working with quadratic, bezier and line sequences.
 * [Hilbert](https://github.com/nodename/Hilbert) - Port of Hilbert curve from cortesi/scurve.
 * [AS3AStar](https://github.com/tomnewton/AS3AStar) - Fast A-Star pathfinding algorithm.
 * [A-star_pathfinder](https://github.com/kevhiggins/a-star_pathfinder) - A-Star pathfinding interface for tile based maps.
 * [As3Pathfinder](https://github.com/azakhary/As3Pathfinder) - Grid Path finding Library written using Dijkstra's algorithm.
-* [Coral](https://github.com/richardlord/Coral) - A library of Actionscript 3 classes for 3D Mathematics.
 
 #### Math
 
 * [AS3Units](https://github.com/erussell/AS3Units) - Port of NGUnits. Parsing, formatting, and converting between units of measure.
-* [AS3LinAlg](https://github.com/inspirit/AS3LinAlg) - AS3 Linear Algebra library
+* [AS3LinAlg](https://github.com/inspirit/AS3LinAlg) - Linear Algebra library (Jacobi SVD, Eigen Vectors/Values, Cholesky LU, etc)
+* [Performance Primitives](https://github.com/martinkallman/performance-as3) - High-performance math modeled on the Intel Performance Primitives
 * [Zexpression](https://github.com/Xorcerer/zexpression) - Parse and evalate math expressions with functions and variables.
 * [FlexibleMatrix](https://github.com/Lukx/FlexibleMatrix) - A multi purpose Matrix class
 * [AS3eval](http://eval.hurlant.com/) - Packages the Tamarin ESC compiler to work within Flash Player. ([alternate](https://github.com/SimonRichardson/as3-eval))
