@@ -716,7 +716,7 @@
 * [SWFWire](https://github.com/magicalhobo/SWFWire) - SWF Decompiler and Inspector Tools
 
 #### SWF Decompilers
-* [AS3Sorcerer](http://www.as3sorcerer.com/) - Premiere AS3 decompiler with 99% accuracy (supports SWF/SWC, Alchemy opcodes)
+* [AS3Sorcerer](http://www.as3sorcerer.com/) - Premiere AS3 decompiler with 99% decompilation accuracy (supports SWF/SWC, Alchemy opcodes)
 * [Sothink Decompiler](http://www.sothink.com/product/flashdecompiler/) - Advanced decompiler for AS2/AS3 (supports asset extraction and conversion of SWF to FLA/Flex)
 
 #### ANE Dev Tools
