@@ -75,7 +75,7 @@
 * [3D Engines](#3d-engines)
 	* [Away3D](#away3d)
 	* [Alternativa3D](#alternativa3d)
-	* [Papervision3D](#papervision3d)
+	* [Flare3D](#flare3d)
 	* [2D Engines](#2d-engines)
 * [Utilities](#utilities)
 	* [Artificial Intelligence](#artificial-intelligence)
@@ -541,6 +541,10 @@
 #### Alternativa3D
 
 * [Alternativa3D](https://github.com/AlternativaPlatform/Alternativa3D) - Alternativa3D GPU accelerated 3D engine ([examples](https://github.com/AlternativaPlatform/Alternativa3DExamples))
+
+#### Flare3D
+
+* [Flare3D](http://flare3d.com/) - Commercial 3D platform with high-performance engine and Level-editor IDE
 
 #### 2D Engines
 
