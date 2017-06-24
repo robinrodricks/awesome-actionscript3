@@ -703,7 +703,7 @@
 * [Adobe Flash Builder](https://www.adobe.com/products/flash-builder.html) - Commercial IDE for building applications on the Flex framework (with advanced debugging tools)
 
 #### Live Debugging
-* [Adobe Scout](https://www.adobe.com/products/scout.html) - Advanced profiling and debugging tool for AIR apps & games.
+* [Adobe Scout](https://www.adobe.com/products/scout.html) - Advanced visual profiling and debugging tool for AIR apps & games (supports Stage3D)
 * [De-Monster Debugger](https://github.com/MrTact/monsterdebugger) - Advanced tool to debug graphics and data from a live AIR application
 * [De-Monster Debugger (Starling)](https://github.com/joshtynjala/monsterdebugger-client-starling) - Fork of De-Monster Debugger with support for Starling Framework
 
@@ -712,7 +712,7 @@
 * [irrFuscator](http://www.ambiera.com/irrfuscator/) - Commercial AS3 obfuscator for Flash and Flex SWF files
 
 #### SWF Inspectors
-* [Velocity9](https://github.com/velocity9/Inspector) - The Velocity 9 SWF Inspector
+* [Velocity9](https://github.com/velocity9/Inspector) - SWF Inspector
 * [SWFWire](https://github.com/magicalhobo/SWFWire) - SWF Decompiler and Inspector Tools
 
 #### SWF Decompilers
