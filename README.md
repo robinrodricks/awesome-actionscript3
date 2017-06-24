@@ -9,6 +9,13 @@
 
 ## Contents
 
+* [Development Tools](#development-tools)
+	* [Code Editing](#code-editing)
+	* [Live Debugging](#live-debugging)
+	* [SWF Obfuscators](#swf-obfuscators)
+	* [SWF Inspectors](#swf-inspectors)
+	* [SWF Decompilers](#swf-decompilers)
+	* [ANE Dev Tools](#ane-dev-tools)
 * [Frameworks](#frameworks)
 	* [MVC Frameworks](#mvc-frameworks)
 	* [UI Frameworks](#ui-frameworks)
@@ -97,14 +104,37 @@
 	* [System ANE](#system-ane)
 	* [Social ANE](#social-ane)
 	* [Analytics ANE](#analytics-ane)
-* [Development Tools](#development-tools)
-	* [Code Editing](#code-editing)
-	* [Live Debugging](#live-debugging)
-	* [SWF Obfuscators](#swf-obfuscators)
-	* [SWF Inspectors](#swf-inspectors)
-	* [SWF Decompilers](#swf-decompilers)
-	* [ANE Dev Tools](#ane-dev-tools)
 	
+
+## Development Tools
+*This section includes commercial tools as well as free/open source tools.*
+
+#### Code Editing
+* [FlashDevelop](http://flashdevelop.org/) - Premiere free & open-source IDE for AS3 & AIR, with code completion, debugging, and more
+* [Powerflasher FDT](http://fdt.powerflasher.com/) - Commercial IDE built on the Eclipse platform for development of Adobe Flash/AIR content
+* [Adobe Flash Builder](https://www.adobe.com/products/flash-builder.html) - Commercial IDE for building applications on the Flex framework (with advanced debugging tools)
+
+#### Live Debugging
+* [Adobe Scout](https://www.adobe.com/products/scout.html) - Advanced visual profiling and debugging tool for AIR apps & games (supports Stage3D)
+* [De-Monster Debugger](https://github.com/MrTact/monsterdebugger) - Advanced tool to debug graphics and data from a live AIR application
+* [De-Monster Debugger (Starling)](https://github.com/joshtynjala/monsterdebugger-client-starling) - Fork of De-Monster Debugger with support for Starling Framework
+
+#### SWF Obfuscators
+* [secureSWF](http://www.kindi.com/) - Commercial AS3/AIR obfuscator with renaming, asset encryption and automatic code optimization
+* [irrFuscator](http://www.ambiera.com/irrfuscator/) - Commercial AS3 obfuscator for Flash and Flex SWF files
+
+#### SWF Inspectors
+* [SWFWire](https://github.com/magicalhobo/SWFWire) - Advanced SWF Decompiler, Inspector and Debugger Tools ([website](http://www.swfwire.com/))
+* [Velocity9](https://github.com/velocity9/Inspector) - Basic SWF Inspector
+
+#### SWF Decompilers
+* [AS3Sorcerer](http://www.as3sorcerer.com/) - Premiere AS3 decompiler with 99% decompilation accuracy (supports SWF/SWC, Alchemy opcodes)
+* [Sothink Decompiler](http://www.sothink.com/product/flashdecompiler/) - Advanced decompiler for AS2/AS3 (supports asset extraction and conversion of SWF to FLA/Flex)
+
+#### ANE Dev Tools
+* [FreSharp](https://github.com/tuarua/FreSharp) - Build ANEs using C# with this C# wrapper for FlashRuntimeExtensions 
+* [Swift-IOS-ANE](https://github.com/tuarua/Swift-IOS-ANE) - ANE starter kit written in Swift 3 for iOS 10 
+
 ## Frameworks
 #### MVC Frameworks
 
@@ -702,32 +732,3 @@
 * [Localytics](https://github.com/randori/ANE-Localytics) - Localytics analytics for mobile Adobe AIR applications (iOS & Android)
 * [Testflight](https://github.com/jlopez/ane-testflight) - Apple TestFlight ANE
 * [Chartboost](https://github.com/ChartBoost/air) - ANE for the Chartboost SDK with compile scripts.
-
-## Development Tools
-*This section includes commercial tools as well as free/open source tools.*
-
-#### Code Editing
-* [FlashDevelop](http://flashdevelop.org/) - Premiere free & open-source IDE for AS3 & AIR, with code completion, debugging, and more
-* [Powerflasher FDT](http://fdt.powerflasher.com/) - Commercial IDE built on the Eclipse platform for development of Adobe Flash/AIR content
-* [Adobe Flash Builder](https://www.adobe.com/products/flash-builder.html) - Commercial IDE for building applications on the Flex framework (with advanced debugging tools)
-
-#### Live Debugging
-* [Adobe Scout](https://www.adobe.com/products/scout.html) - Advanced visual profiling and debugging tool for AIR apps & games (supports Stage3D)
-* [De-Monster Debugger](https://github.com/MrTact/monsterdebugger) - Advanced tool to debug graphics and data from a live AIR application
-* [De-Monster Debugger (Starling)](https://github.com/joshtynjala/monsterdebugger-client-starling) - Fork of De-Monster Debugger with support for Starling Framework
-
-#### SWF Obfuscators
-* [secureSWF](http://www.kindi.com/) - Commercial AS3/AIR obfuscator with renaming, asset encryption and automatic code optimization
-* [irrFuscator](http://www.ambiera.com/irrfuscator/) - Commercial AS3 obfuscator for Flash and Flex SWF files
-
-#### SWF Inspectors
-* [SWFWire](https://github.com/magicalhobo/SWFWire) - Advanced SWF Decompiler, Inspector and Debugger Tools ([website](http://www.swfwire.com/))
-* [Velocity9](https://github.com/velocity9/Inspector) - Basic SWF Inspector
-
-#### SWF Decompilers
-* [AS3Sorcerer](http://www.as3sorcerer.com/) - Premiere AS3 decompiler with 99% decompilation accuracy (supports SWF/SWC, Alchemy opcodes)
-* [Sothink Decompiler](http://www.sothink.com/product/flashdecompiler/) - Advanced decompiler for AS2/AS3 (supports asset extraction and conversion of SWF to FLA/Flex)
-
-#### ANE Dev Tools
-* [FreSharp](https://github.com/tuarua/FreSharp) - Build ANEs using C# with this C# wrapper for FlashRuntimeExtensions 
-* [Swift-IOS-ANE](https://github.com/tuarua/Swift-IOS-ANE) - ANE starter kit written in Swift 3 for iOS 10 
