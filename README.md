@@ -144,6 +144,7 @@
 * [DragonBones](http://dragonbones.github.io/) - High-speed skeletal animation using Starling, and tools to export animations from Flash Pro.
 
 #### Signals
+
 * [AS3-signals](https://github.com/robertpenner/as3-signals) - New approach for AS3 events inspired by C# events and signals/slots in Qt.
 * [react-as3](https://github.com/tconkling/react-as3) - Signals/slots and functional reactive programming library.
 * [Signaller](https://github.com/whitered/Signaller) - Signals implementation with restricted rights for dispatching
@@ -168,7 +169,6 @@
 ## User Interface
 #### UI Components
 
-* [Adobe TLF](https://github.com/apache/flex-tlf) - Adobe/Apache Flex Text Layout Framework (TLF)
 * [MinimalComps](https://github.com/minimalcomps/minimalcomps) - Minimal ActionScript 3.0 UI Components for Flash
 * [Extended-MinimalComps](https://github.com/turbosqel/Extended-MinimalComps) - Upgraded for data binding, relative resizing, ASML builder and more.
 * [MadComponents](https://github.com/danfreeman/MadComponents) - Popular Mobile UI Framework for AS3 / AIR
@@ -191,6 +191,8 @@
 
 #### Layout
 
+* [Adobe TLF](https://github.com/apache/flex-tlf) - Adobe/Apache Flex Text Layout Framework (TLF)
+* [TinyTLF](https://github.com/joelhooks/tinytlf) - A tiny, versatile, text layout framework built on top of the Flash Text Engine for Flash/Flex
 * [TransformManager](https://greensock.com/TransformManager) - By Greensock. Interactive scaling/rotating/moving of DisplayObjects.
 * [TransformTool](https://github.com/senocular/TransformTool) - Free Transform Tool (AS, JS) for manipulating objects in 2D space.
 * [Argilla-Mosaic](https://github.com/folletto/Argilla-Mosaic) - ActionScript 3 dynamic layout library.
@@ -365,6 +367,7 @@
 * [Stylekit-as3](https://github.com/videojuicer/stylekit-as3) -  Skinnable user interfaces using CSS3.
 * [Sass4as](https://github.com/jeremyruppel/sass4as) - Syntactically Awesome Stylesheets for ActionScript 3
 * [Jakute-CSS](https://github.com/kakenbok/Jakute-Styling-Engine) - Jakute is a CSS framework for ActionScript/Flash.
+* [CSS.as](https://gist.github.com/trxcllnt/1161266) - Single-file CSS parser, part of TinyTLF project.
 
 #### BSON
 
