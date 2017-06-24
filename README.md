@@ -283,8 +283,9 @@
 
 #### Augmented Reality
 
-* [FLARToolKit](https://github.com/Saqoosha/FLARToolKit) - AS3 port of the industry standard ARToolkit library, for Flash Player 11.
+* [FLARToolKit](https://github.com/Saqoosha/FLARToolKit) - AS3 port of the industry standard ARToolkit library, for Flash Player 11. ([website](http://www.libspark.org/wiki/saqoosha/FLARToolKit/en))
 * [FLAREmulator](https://github.com/theflashbum/FLAREmulator) - Test AR demos to see what works and what doesn't with or without a webcam.
+* [FLARManager](http://words.transmote.com/wp/flarmanager/) - Lightweight framework for building augmented reality applications, using FLARToolkit/flare.tracker/flare.NFT
 * [NyARToolkitAS3](https://github.com/nyatla/NyARToolkitAS3) - NyARToolkit AS3 edition. Marker based Augmented reality library.
 * [EZFLAR](https://github.com/tcha-tcho/EZFLAR) - A little wrapper to ease the way AR works
 * [IN2AR](https://github.com/inspirit/IN2ARSDKExamples) - SDK for IN2AR cross-platform Augmented Reality Engine
