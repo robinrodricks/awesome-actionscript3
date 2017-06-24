@@ -97,7 +97,13 @@
 	* [System ANE](#system-ane)
 	* [Social ANE](#social-ane)
 	* [Analytics ANE](#analytics-ane)
-	* [Development Tools](development-tools)
+* [Development Tools](development-tools)
+	* [Code Editing](#code-editing)
+	* [Live Debugging](#live-debugging)
+	* [SWF Obfuscators](#swf-obfuscators)
+	* [SWF Inspectors](#swf-inspectors)
+	* [SWF Decompilers](#swf-decompilers)
+	* [ANE Dev Tools](#ane-dev-tools)
 	
 ## Frameworks
 #### MVC Frameworks
@@ -456,6 +462,7 @@
 * [KinectGate](https://github.com/cleoag/KinectGate) - KinectSDK to AS3 socket gate
 * [Kinect-Gestures](https://github.com/tonybeltramelli/Air-Kinect-Gesture-Lib) - Air Kinect Gesture Library
 * [OpenTSPS](https://github.com/labatrockwell/openTSPS) - TSPS is a cross platform Toolkit for Sensing People in Spaces. It performs openCV operations on live video (Kinect, web camera, etc) and sends it to clients as JSON (via WebSockets), OSC, TUIO, or TCP.
+* [LeapMotionAS3](https://github.com/logotype/LeapMotionAS3) - Integrate with the LeapMotion sensor (provides Gestures, Image, Skeleton/Bone @ 210 FPS)
 
 #### Servers
 
@@ -659,6 +666,7 @@
 * [AIROUYAController](https://github.com/gaslightgames/AIROUYAController) - ANE for the OUYA Controller
 * [AIRKinectv2](https://github.com/Tastenkunst/AIRKinectv2) - ANE for Microsoft Kinect v2 for Windows SDK
 * [Serial/MIDI/DMX](https://github.com/benkuper/AIR-NativeExtensions) - AIRBonjour, NativeSerial, NativeDMXController, NativeMIDI, VirtualMIDI, ExtendedMouse
+* [LeapMotionAS3](https://github.com/logotype/LeapMotionAS3) - ANE for LeapMotion sensor (provides Gestures, Image, Skeleton/Bone @ 210 FPS)
 
 #### System ANE
 * [TaskbarProgress](https://github.com/tuarua/TaskbarProgressANE) - Display taskbar progress on OSX & Windows 7/8/10 
@@ -686,7 +694,30 @@
 * [Testflight](https://github.com/jlopez/ane-testflight) - Apple TestFlight ANE
 * [Chartboost](https://github.com/ChartBoost/air) - ANE for the Chartboost SDK with compile scripts.
 
-#### Development Tools
+## Development Tools
+*This section includes commercial tools as well as free/open source tools.*
+
+#### Code Editing
+* [FlashDevelop](http://flashdevelop.org/) - Premiere free & open-source IDE for AS3 & AIR, with code completion, debugging, and more
+* [Powerflasher FDT](http://fdt.powerflasher.com/) - Commercial IDE built on the Eclipse platform for development of Adobe Flash/AIR content
+
+#### Live Debugging
+* [Adobe Scout](https://www.adobe.com/products/scout.html) - Advanced profiling and debugging tool for AIR apps & games.
+* [De-Monster Debugger](https://github.com/MrTact/monsterdebugger) - Advanced tool to debug graphics and data from a live AIR application
+* [De-Monster Debugger (Starling)](https://github.com/joshtynjala/monsterdebugger-client-starling) - Fork of De-Monster Debugger with support for Starling Framework
+
+#### SWF Obfuscators
+* [secureSWF](http://www.kindi.com/) - Commercial AS3/AIR obfuscator with renaming, asset encryption and automatic code optimization
+* [irrFuscator](http://www.ambiera.com/irrfuscator/) - Commercial AS3 obfuscator for Flash and Flex SWF files
+
+#### SWF Inspectors
+* [Velocity9 Inspector](https://github.com/velocity9/Inspector) - The Velocity 9 SWF Inspector
+* [SWFWire](https://github.com/magicalhobo/SWFWire) - SWF Decompiler and Inspector Tools
+
+#### SWF Decompilers
+* [AS3Sorcerer](http://www.as3sorcerer.com/) - Premiere ActionScript 3 decompiler with 99% decompilation accuracy (supports SWF, SWC, Alchemy opcodes)
+* [Sothink Decompiler](http://www.sothink.com/product/flashdecompiler/) - Advanced decompiler supporting AS2/AS3 and asset extraction. Convert SWF to FLA/Flex.
+
+#### ANE Dev Tools
 * [FreSharp](https://github.com/tuarua/FreSharp) - Build ANEs using C# with this C# wrapper for FlashRuntimeExtensions 
 * [Swift-IOS-ANE](https://github.com/tuarua/Swift-IOS-ANE) - ANE starter kit written in Swift 3 for iOS 10 
-
