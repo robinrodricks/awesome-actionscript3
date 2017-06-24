@@ -704,8 +704,8 @@
 
 #### Live Debugging
 * [Adobe Scout](https://www.adobe.com/products/scout.html) - Advanced profiling and debugging tool for AIR apps & games.
-* [De-Monster](https://github.com/MrTact/monsterdebugger) - Advanced tool to debug graphics and data from a live AIR application
-* [De-Monster (Starling)](https://github.com/joshtynjala/monsterdebugger-client-starling) - Fork of De-Monster Debugger with support for Starling Framework
+* [De-Monster Debugger](https://github.com/MrTact/monsterdebugger) - Advanced tool to debug graphics and data from a live AIR application
+* [De-Monster Debugger (Starling)](https://github.com/joshtynjala/monsterdebugger-client-starling) - Fork of De-Monster Debugger with support for Starling Framework
 
 #### SWF Obfuscators
 * [secureSWF](http://www.kindi.com/) - Commercial AS3/AIR obfuscator with renaming, asset encryption and automatic code optimization
