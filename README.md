@@ -712,8 +712,8 @@
 * [irrFuscator](http://www.ambiera.com/irrfuscator/) - Commercial AS3 obfuscator for Flash and Flex SWF files
 
 #### SWF Inspectors
-* [Velocity9](https://github.com/velocity9/Inspector) - SWF Inspector
-* [SWFWire](https://github.com/magicalhobo/SWFWire) - SWF Decompiler and Inspector Tools
+* [SWFWire](https://github.com/magicalhobo/SWFWire) - Advanced SWF Decompiler, Inspector and Debugger Tools ([website](http://www.swfwire.com/))
+* [Velocity9](https://github.com/velocity9/Inspector) - Basic SWF Inspector
 
 #### SWF Decompilers
 * [AS3Sorcerer](http://www.as3sorcerer.com/) - Premiere AS3 decompiler with 99% decompilation accuracy (supports SWF/SWC, Alchemy opcodes)
