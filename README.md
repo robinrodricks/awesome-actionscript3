@@ -700,7 +700,7 @@
 #### Code Editing
 * [FlashDevelop](http://flashdevelop.org/) - Premiere free & open-source IDE for AS3 & AIR, with code completion, debugging, and more
 * [Powerflasher FDT](http://fdt.powerflasher.com/) - Commercial IDE built on the Eclipse platform for development of Adobe Flash/AIR content
-* [Adobe Flash Builder](https://www.adobe.com/products/flash-builder.html) - Commercial IDE for building applications on the Flex framework (includes advanced debugging tools)
+* [Adobe Flash Builder](https://www.adobe.com/products/flash-builder.html) - Commercial IDE for building applications on the Flex framework (with advanced debugging tools)
 
 #### Live Debugging
 * [Adobe Scout](https://www.adobe.com/products/scout.html) - Advanced profiling and debugging tool for AIR apps & games.
