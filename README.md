@@ -531,6 +531,7 @@
 
 #### Away3D
 
+* [AwayBuilder](http://awaytools.com/awaybuilder/) - Visual workflow tool to import, optimise and bake 3D assets from a variety of sources
 * [Away3D FP11](https://github.com/away3d/away3d-core-fp11) - Away3D engine for Flash Player 11 ([examples](https://github.com/away3d/away3d-examples-fp11))
 * [Away3D FP10](https://github.com/away3d/away3d-core-fp10) - Away3D engine for Flash Player 10 ([examples](https://github.com/away3d/away3d-examples-fp10))
 * [Away3D OpenFL](https://github.com/away3d/away3d-core-openfl) - Away3D for Neko, HTML5 and native CPP. ([examples](https://github.com/away3d/away3d-examples-openfl))
