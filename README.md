@@ -25,16 +25,16 @@
 	* [Multi Touch](#multi-touch)
 	* [Game Controllers](#game-controllers)
 * [Multimedia](#multimedia)
-	* [Video Player](#video-player)
+	* [Augmented Reality](#augmented-reality)
+	* [Data Visualization](#data-visualization)
 	* [Camera](#camera)
-	* [Sound](#sound)
 	* [Image](#image)
 	* [Font](#font)
 	* [Particle](#particle)
-	* [Data Visualization](#data-visualization)
-	* [Augmented Reality](#augmented-reality)
 	* [Panorama Viewer](#panorama-viewer)
 	* [QR Code](#qr-code)
+	* [Sound](#sound)
+	* [Video Player](#video-player)
 * [Database](#database)
 	* [SQLite](#sqlite)
 	* [MongoDB](#mongodb)
@@ -215,37 +215,34 @@
 * [AS3-Controller-Input](https://github.com/arkeus/as3-controller-input) - Interact with Ouya and Xbox360 game controllers from Adobe AIR.
 
 ## Multimedia
-#### Video Player
 
-* [Flowplayer](https://github.com/flowplayer/flash) - Flowplayer Flash, the video player for the Web
-* [Goplayer](https://github.com/dbrock/goplayer) - Modern, open-source video player written in ActionScript 3
-* [OSFlashVideoPlayer](https://github.com/FlashJunior/OSFlashVideoPlayer) - Open source flash video player
-* [F4player](https://github.com/gokercebeci/f4player) - f4Player :: Open Source AS3 Flash Video Player
-* [dashas](https://github.com/castlabs/dashas) - MPEG-DASH player written in ActionScript
-* [hlsplayer](https://github.com/erlyvideo/hlsplayer) - HLS player for OSMF flash framework
-* [vgaplayer](https://github.com/euske/vgaplayer) - Open source player for Adobe Flash Media Server streams (RTMP)
+#### Augmented Reality
+
+* [FLARToolKit](https://github.com/Saqoosha/FLARToolKit) - AS3 port of the industry standard ARToolkit library, for Flash Player 11. ([website](http://www.libspark.org/wiki/saqoosha/FLARToolKit/en))
+* [FLAREmulator](https://github.com/theflashbum/FLAREmulator) - Test AR demos to see what works and what doesn't with or without a webcam.
+* [FLARManager](http://words.transmote.com/wp/flarmanager/) - Lightweight framework for building augmented reality applications, using FLARToolkit/flare.tracker/flare.NFT
+* [NyARToolkitAS3](https://github.com/nyatla/NyARToolkitAS3) - NyARToolkit AS3 edition. Marker based Augmented reality library.
+* [EZFLAR](https://github.com/tcha-tcho/EZFLAR) - A little wrapper to ease the way AR works
+* [IN2AR](https://github.com/inspirit/IN2ARSDKExamples) - SDK for IN2AR cross-platform Augmented Reality Engine
+
+#### Data Visualization
+
+* [Degrafa](https://github.com/lancejpollard/degrafa) - Degrafa is a declarative graphics framework for Flex.
+* [Axiis](https://github.com/hgupta9/AxiisCharts) - Data visualization framework with line, bar, wedge, column, cluster, area, smith and treemap charts.
+* [Open Flash Charts](https://sourceforge.net/projects/openflashchart/) - Line charts, Area charts, Bar charts, Pie charts, Scatter charts.
+* [Flare](https://github.com/prefuse/Flare) - charts and graphs, supports data management, visual encoding, animation, and interaction techniques.
+* [clearmaps](https://github.com/sunlightlabs/clearmaps) - An ActionScript mapping framework for data visualization.
+* [redada](https://github.com/geraldo/redada) - Interactive visualization of weighted graphs using GraphML files.
+* [Flextreemap](https://github.com/joshtynjala/flextreemap) - TreeMap data visualization component for Adobe Flex
+* [GraphVisualizer](https://github.com/armisael/GraphVisualizer) - A Flex 3 + ActionScript 3 web software to draw dynamic graphcs
+* [Weave](https://github.com/WeaveTeam/Weave) - Weave (Web-based Analysis and Visualization Environment)
+* [Social-grid](https://github.com/Instrument/social-grid) - Abstract Grid Visualization for Social Media
 
 #### Camera
 
 * [CameraDetection](https://github.com/cataclysmicrewind/CameraDetection) - AS3 camera detection
 * [Fluocam](https://github.com/Fluocode/Fluocam)- virtual camera  for Starling applications
 * [WebcamRecorder](https://github.com/Stupeflix/WebcamRecorder) - chromeless video/audio/still image recording from webcams.
-
-#### Sound
-
-* [SoundAS](https://github.com/treefortress/SoundAS) - A modern lightweight sound manager for AS3.
-* [Standingwave3](https://github.com/maxl0rd/standingwave3) - AS3 dynamic audio library
-* [Standingwave3-addons](https://github.com/charlesclements/standingwave3-addons) - Addons for SW3
-* [Soundtouch-as3](https://github.com/also/soundtouch-as3) - AS3 Port of the SoundTouch Sound Processing Library
-* [SeiON](https://github.com/cardin/SeiON) - Actionscript Sound Management Library
-* [AS3-Sound-Manager](https://github.com/GrupoW/as3-Sound-Manager)-  upgrated version of the Sound Manager Class from Matt Przybylski
-* [AS3sfxr](https://github.com/SFBTom/as3sfxr) - A port of sfxr from C++ to AS3, using the new sound and file capabilities of Flash Player 10.
-* [AS3-audio](https://github.com/singuerinc/as3-audio) - Audio Management in Actionscript
-* [SiON](https://github.com/keim/SiON) - Flash Software Synthesizer
-* [FlashWavRecorder](https://github.com/michalstocki/FlashWavRecorder) - Simple flash file for recording audio and saving as a WAV
-* [Local-recorder](https://github.com/pauln/local-audio-recorder) - Local audio recorder (no streaming server required).  Currently requires Flash Player 10.1 or above.
-* [Jukebox](https://github.com/AlwynW/Jukebox) - Music manager for Actionscript 3 projects
-* [Flod](https://github.com/photonstorm/Flod) - AS3 Amiga SoundTracker (MOD) and FastTracker (XM) Replay Library
 
 #### Image
 
@@ -276,28 +273,6 @@
 * [Starling-Particles](https://github.com/Gamua/Starling-Extension-Particle-System) - A particle system for the Starling framework, compatible with the "Particle Designer" from 71squared.com
 * [MotionParticleSprite](https://github.com/bjeld/motionparticlesprite) - Design motion paths in Flash Pro and use it to guide Starling particles.
 
-#### Data Visualization
-
-* [Degrafa](https://github.com/lancejpollard/degrafa) - Degrafa is a declarative graphics framework for Flex.
-* [Axiis](https://github.com/hgupta9/AxiisCharts) - Data visualization framework with line, bar, wedge, column, cluster, area, smith and treemap charts.
-* [Open Flash Charts](https://sourceforge.net/projects/openflashchart/) - Line charts, Area charts, Bar charts, Pie charts, Scatter charts.
-* [Flare](https://github.com/prefuse/Flare) - charts and graphs, supports data management, visual encoding, animation, and interaction techniques.
-* [clearmaps](https://github.com/sunlightlabs/clearmaps) - An ActionScript mapping framework for data visualization.
-* [redada](https://github.com/geraldo/redada) - Interactive visualization of weighted graphs using GraphML files.
-* [Flextreemap](https://github.com/joshtynjala/flextreemap) - TreeMap data visualization component for Adobe Flex
-* [GraphVisualizer](https://github.com/armisael/GraphVisualizer) - A Flex 3 + ActionScript 3 web software to draw dynamic graphcs
-* [Weave](https://github.com/WeaveTeam/Weave) - Weave (Web-based Analysis and Visualization Environment)
-* [Social-grid](https://github.com/Instrument/social-grid) - Abstract Grid Visualization for Social Media
-
-#### Augmented Reality
-
-* [FLARToolKit](https://github.com/Saqoosha/FLARToolKit) - AS3 port of the industry standard ARToolkit library, for Flash Player 11. ([website](http://www.libspark.org/wiki/saqoosha/FLARToolKit/en))
-* [FLAREmulator](https://github.com/theflashbum/FLAREmulator) - Test AR demos to see what works and what doesn't with or without a webcam.
-* [FLARManager](http://words.transmote.com/wp/flarmanager/) - Lightweight framework for building augmented reality applications, using FLARToolkit/flare.tracker/flare.NFT
-* [NyARToolkitAS3](https://github.com/nyatla/NyARToolkitAS3) - NyARToolkit AS3 edition. Marker based Augmented reality library.
-* [EZFLAR](https://github.com/tcha-tcho/EZFLAR) - A little wrapper to ease the way AR works
-* [IN2AR](https://github.com/inspirit/IN2ARSDKExamples) - SDK for IN2AR cross-platform Augmented Reality Engine
-
 #### Panorama Viewer
 
 * [Pantaloons](https://github.com/EyeSee360/Pantaloons) - Panoramic viewing in Flash Player
@@ -311,6 +286,32 @@
 * [Zxing AS3](https://github.com/zxing/zxing/tree/c1df162b95e07928afbd4830798cc1408af1ac67/actionscript) - QR code detection and generation ([docs](https://zxing.github.io/zxing/))
 * [AS3-qrcode-encoder](https://github.com/jbpin/as3-qrcode-encoder) - A QR code encoder in as3
 * [qrcode-as](https://github.com/yanbe/qrcode-as) - QR Code reader written in ActionScript 3 which supports webcam on Windows, Mac and Linux by default
+
+#### Sound
+
+* [SoundAS](https://github.com/treefortress/SoundAS) - A modern lightweight sound manager for AS3.
+* [Standingwave3](https://github.com/maxl0rd/standingwave3) - AS3 dynamic audio library
+* [Standingwave3-addons](https://github.com/charlesclements/standingwave3-addons) - Addons for SW3
+* [Soundtouch-as3](https://github.com/also/soundtouch-as3) - AS3 Port of the SoundTouch Sound Processing Library
+* [SeiON](https://github.com/cardin/SeiON) - Actionscript Sound Management Library
+* [AS3-Sound-Manager](https://github.com/GrupoW/as3-Sound-Manager)-  upgrated version of the Sound Manager Class from Matt Przybylski
+* [AS3sfxr](https://github.com/SFBTom/as3sfxr) - A port of sfxr from C++ to AS3, using the new sound and file capabilities of Flash Player 10.
+* [AS3-audio](https://github.com/singuerinc/as3-audio) - Audio Management in Actionscript
+* [SiON](https://github.com/keim/SiON) - Flash Software Synthesizer
+* [FlashWavRecorder](https://github.com/michalstocki/FlashWavRecorder) - Simple flash file for recording audio and saving as a WAV
+* [Local-recorder](https://github.com/pauln/local-audio-recorder) - Local audio recorder (no streaming server required).  Currently requires Flash Player 10.1 or above.
+* [Jukebox](https://github.com/AlwynW/Jukebox) - Music manager for Actionscript 3 projects
+* [Flod](https://github.com/photonstorm/Flod) - AS3 Amiga SoundTracker (MOD) and FastTracker (XM) Replay Library
+
+#### Video Player
+
+* [Flowplayer](https://github.com/flowplayer/flash) - Flowplayer Flash, the video player for the Web
+* [Goplayer](https://github.com/dbrock/goplayer) - Modern, open-source video player written in ActionScript 3
+* [OSFlashVideoPlayer](https://github.com/FlashJunior/OSFlashVideoPlayer) - Open source flash video player
+* [F4player](https://github.com/gokercebeci/f4player) - f4Player :: Open Source AS3 Flash Video Player
+* [dashas](https://github.com/castlabs/dashas) - MPEG-DASH player written in ActionScript
+* [hlsplayer](https://github.com/erlyvideo/hlsplayer) - HLS player for OSMF flash framework
+* [vgaplayer](https://github.com/euske/vgaplayer) - Open source player for Adobe Flash Media Server streams (RTMP)
 
 ## Database
 
