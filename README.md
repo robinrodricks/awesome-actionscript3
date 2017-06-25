@@ -10,8 +10,9 @@
 ## Contents
 
 * [Development Tools](#development-tools)
-	* [Code Editing](#code-editing)
-	* [Live Debugging](#live-debugging)
+	* [Code Editors](#code-editors)
+	* [Live Debuggers](#live-debuggers)
+	* [Asset Creators](#asset-creators)
 	* [SWF Obfuscators](#swf-obfuscators)
 	* [SWF Inspectors](#swf-inspectors)
 	* [SWF Decompilers](#swf-decompilers)
@@ -109,15 +110,19 @@
 ## Development Tools
 *This section includes commercial tools as well as free/open source tools.*
 
-#### Code Editing
+#### Code Editors
 * [FlashDevelop](http://flashdevelop.org/) - Premiere free & open-source IDE for AS3 & AIR, with code completion, debugging, and more
 * [Powerflasher FDT](http://fdt.powerflasher.com/) - Commercial IDE built on the Eclipse platform for development of Adobe Flash/AIR content
 * [Adobe Flash Builder](https://www.adobe.com/products/flash-builder.html) - Commercial IDE for building applications on the Flex framework (with advanced debugging tools)
 
-#### Live Debugging
+#### Live Debuggers
 * [Adobe Scout](https://www.adobe.com/products/scout.html) - Advanced visual profiling and debugging tool for AIR apps & games (supports Stage3D)
 * [De-Monster Debugger](https://github.com/MrTact/monsterdebugger) - Advanced tool to debug graphics and data from a live AIR application
 * [De-Monster Debugger (Starling)](https://github.com/joshtynjala/monsterdebugger-client-starling) - Fork of De-Monster Debugger with support for Starling Framework
+
+#### Asset Creators
+* [Adobe Animate CC](https://www.adobe.com/products/animate.html) - Premiere vector graphics and animation toolset for vector/spritesheet creation.
+* [TILED Map Editor](http://www.mapeditor.org/) - Flexible tile map editor compatible with various AS3 game engines.
 
 #### SWF Obfuscators
 * [secureSWF](http://www.kindi.com/) - Commercial AS3/AIR obfuscator with renaming, asset encryption and automatic code optimization
@@ -172,6 +177,8 @@
 * [GreenSock GSAP](https://greensock.com/gsap-as) - The industry-standard animation library for Flash (TweenLite, TweenMax) ([github](https://github.com/greensock/GreenSock-AS3))
 * [GTween](http://gskinner.com/libraries/gtween/) - Small but robust library for programmatic tweening, animation, and transitions.
 * [DragonBones](http://dragonbones.github.io/) - High-speed skeletal animation using Starling, and tools to export animations from Flash Pro.
+* [FlashEff2](http://www.flasheff.com/) - Premiere programmatic animation library with 100+ transitions and text effects.
+* [FlashEffNano](http://www.flasheffnano.com/) - FlashEff transition library optimized for mobile devices, with 20+ transitions in 750 styles.
 
 #### Signals
 
