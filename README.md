@@ -123,6 +123,7 @@
 #### Asset Creators
 * [Adobe Animate CC](https://www.adobe.com/products/animate.html) - Premiere vector graphics and animation toolset for vector/spritesheet creation.
 * [TILED Map Editor](http://www.mapeditor.org/) - Flexible tile map editor compatible with various AS3 game engines.
+* [FlashMovieClipConverter](https://github.com/zenrobin/FlashMovieClipConverter) - Converts a Flash MovieClip to a Starling IAnimatable Sprite
 
 #### SWF Obfuscators
 * [secureSWF](http://www.kindi.com/) - Commercial AS3/AIR obfuscator with renaming, asset encryption and automatic code optimization
@@ -179,6 +180,7 @@
 * [DragonBones](http://dragonbones.github.io/) - High-speed skeletal animation using Starling, and tools to export animations from Flash Pro.
 * [FlashEff2](http://www.flasheff.com/) - Premiere programmatic animation library with 100+ transitions and text effects.
 * [FlashEffNano](http://www.flasheffnano.com/) - FlashEff transition library optimized for mobile devices, with 20+ transitions in 750 styles.
+* [StarlingGAFPlayer](https://github.com/zenrobin/StarlingGAFPlayer) - Play back GAF animations using Starling (animations authored in Flash Pro)
 
 #### Signals
 
@@ -280,6 +282,7 @@
 * [CameraDetection](https://github.com/cataclysmicrewind/CameraDetection) - AS3 camera detection
 * [Fluocam](https://github.com/Fluocode/Fluocam)- virtual camera  for Starling applications
 * [WebcamRecorder](https://github.com/Stupeflix/WebcamRecorder) - chromeless video/audio/still image recording from webcams.
+* [FlashyWrappers](https://github.com/rainbowcreatures/FlashyWrappers) - Recording video from AIR apps on Windows/Android/iOS/OSX.
 
 #### Image
 
