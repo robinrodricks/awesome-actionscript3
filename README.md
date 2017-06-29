@@ -21,6 +21,7 @@
 	* [MVC Frameworks](#mvc-frameworks)
 	* [UI Frameworks](#ui-frameworks)
 	* [Game Frameworks](#game-frameworks)
+	* [3D Frameworks](#3d-frameworks)
 	* [Animation](#animation)
 	* [Signals](#signals)
 	* [Functional](#functional)
@@ -33,8 +34,6 @@
 	* [Multi Touch](#multi-touch)
 	* [Game Controllers](#game-controllers)
 * [Multimedia](#multimedia)
-	* [2D Engines](#2d-engines)
-	* [3D Engines](#3d-engines)
 	* [Augmented Reality](#augmented-reality)
 	* [Data Visualization](#data-visualization)
 	* [Camera](#camera)
@@ -169,6 +168,19 @@
 * [Pixelizer](https://github.com/johanp/Pixelizer) - Component based game engine to build 2D games. Provides rendering, animation, input, etc.
 * [AS3isolib](https://github.com/as3isolib/as3isolib.v1) - Isometric Library developed to assist in creating isometrically projected games.
 * [IsoHill](https://github.com/jadbox/IsoHill-Game-Engine) - GPU-based Isometric engine built on Starling, with TILED map parser, layers, etc ([website](http://www.isohill.com/))
+* [YCanvas](https://github.com/jozefchutka/YCanvas) - High-performance 2D tile renderer and world map renderer.
+* [ND2D](https://github.com/lrrrs/nd2d) - GPU-accelerated 2D game engine using Stage3D ([ND2Dx](https://github.com/NoRabbit/ND2Dx))
+* [Nexus](https://github.com/tversteeg/Nexus) - GPU-accelerated 2D game engine using Stage3D
+
+#### 3D Frameworks
+
+* [Zen3D](https://github.com/hgupta9/Zen3D) - High-performance 3D engine for Adobe Flash & AIR (GPU based)
+* [AwayBuilder](http://awaytools.com/awaybuilder/) - Visual workflow tool to import, optimise and bake 3D assets from a variety of sources
+* [Away3D](https://github.com/away3d/away3d-core-fp11) - Open-source GPU-accelerated 3D engine for Flash Player 11+ ([examples](https://github.com/away3d/away3d-examples-fp11))
+* [Away3D OpenFL](https://github.com/away3d/away3d-core-openfl) - Away3D for Neko, HTML5 and native CPP. ([examples](https://github.com/away3d/away3d-examples-openfl))
+* [AwayPhysics FP11](https://github.com/away3d/awayphysics-core-fp11) - Away Physics - 3D physics library for the Away3D FP 11 ([examples](https://github.com/away3d/awayphysics-examples-fp11))
+* [Alternativa3D](https://github.com/AlternativaPlatform/Alternativa3D) - Alternativa3D GPU accelerated 3D engine ([examples](https://github.com/AlternativaPlatform/Alternativa3DExamples))
+* [Flare3D](http://flare3d.com/) - Commercial 3D platform with high-performance engine and Level-editor IDE
 
 #### Animation
 
@@ -251,26 +263,6 @@
 * [AS3-Controller-Input](https://github.com/arkeus/as3-controller-input) - Interact with Ouya and Xbox360 game controllers from Adobe AIR.
 
 ## Multimedia
-
-#### 2D Engines
-
-* [YCanvas](https://github.com/jozefchutka/YCanvas) - Open source 2D tile renderer, a high performance solution for rendering world maps.
-* [ND2D](https://github.com/lrrrs/nd2d) - GPU Accelerated 2D game engine using Stage3D
-* [ND2Dx](https://github.com/NoRabbit/ND2Dx) - GPU Accelerated 2D game engine using Stage3D
-* [Nexus](https://github.com/tversteeg/Nexus) - GPU Accelerated 2D game engine using Stage3D
-
-#### 3D Engines
-
-* [Zen3D](https://github.com/hgupta9/Zen3D) - High-performance 3D engine for Adobe Flash & AIR (GPU based)
-* [AwayBuilder](http://awaytools.com/awaybuilder/) - Visual workflow tool to import, optimise and bake 3D assets from a variety of sources
-* [Away3D FP11](https://github.com/away3d/away3d-core-fp11) - Away3D engine for Flash Player 11 ([examples](https://github.com/away3d/away3d-examples-fp11))
-* [Away3D FP10](https://github.com/away3d/away3d-core-fp10) - Away3D engine for Flash Player 10 ([examples](https://github.com/away3d/away3d-examples-fp10))
-* [Away3D OpenFL](https://github.com/away3d/away3d-core-openfl) - Away3D for Neko, HTML5 and native CPP. ([examples](https://github.com/away3d/away3d-examples-openfl))
-* [AwayPhysics FP11](https://github.com/away3d/awayphysics-core-fp11) - Away Physics - 3D physics library for the Away3D FP 11 ([examples](https://github.com/away3d/awayphysics-examples-fp11))
-* [Away3DLite FP10](https://github.com/away3d/away3dlite-core-fp10) - Away3DLite engine for Flash Player 10 ([examples](https://github.com/away3d/away3dlite-examples-fp10))
-* [Away3DLite Haxe](https://github.com/away3d/away3dlite-core-haxe) - Away3DLite engine for HaXe
-* [Alternativa3D](https://github.com/AlternativaPlatform/Alternativa3D) - Alternativa3D GPU accelerated 3D engine ([examples](https://github.com/AlternativaPlatform/Alternativa3DExamples))
-* [Flare3D](http://flare3d.com/) - Commercial 3D platform with high-performance engine and Level-editor IDE
 
 #### Augmented Reality
 
