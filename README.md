@@ -63,8 +63,8 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Robotlegs](https://github.com/robotlegs/robotlegs-framework) - Dependency injection, module/view/command management framework for Flash
 * [Hummingbird](https://github.com/flashapi/hummingbird) - Build and deploy robust MVC applications for AS3, Mobile and the Starling Framework.
 * [Apollo](https://github.com/LaurentZuijdwijk/Apollo) - Dependency injection and messaging framework, which can be used as the basis for MVC projects
-* [Somacore](https://github.com/soundstep/somacore_framework) - lightweight event-based AS3 MVC framework.
-* [Kote](https://github.com/whitered/Kote) - fast and lightweight MVC framework that brings together the best of PureMVC and as3-signals
+* [Somacore](https://github.com/soundstep/somacore_framework) - Lightweight event-based AS3 MVC framework.
+* [Kote](https://github.com/whitered/Kote) - Fast and lightweight MVC framework that brings together the best of PureMVC and as3-signals
 * [StarlingMVC](https://github.com/CreativeBottle/starlingMVC) - IOC Framework for Starling based games
 
 #### UI Frameworks
@@ -93,13 +93,13 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### 3D Frameworks
 
-* [Zen3D](https://github.com/hgupta9/Zen3D) - High-performance 3D engine for Adobe Flash & AIR (GPU based)
 * [AwayBuilder](http://awaytools.com/awaybuilder/) - Visual workflow tool to import, optimise and bake 3D assets from a variety of sources
 * [Away3D](https://github.com/away3d/away3d-core-fp11) - Open-source GPU-accelerated 3D engine for Flash Player 11+ ([examples](https://github.com/away3d/away3d-examples-fp11))
 * [Away3D OpenFL](https://github.com/away3d/away3d-core-openfl) - Away3D for Neko, HTML5 and native CPP. ([examples](https://github.com/away3d/away3d-examples-openfl))
 * [AwayPhysics FP11](https://github.com/away3d/awayphysics-core-fp11) - Away Physics - 3D physics library for the Away3D FP 11 ([examples](https://github.com/away3d/awayphysics-examples-fp11))
 * [Alternativa3D](https://github.com/AlternativaPlatform/Alternativa3D) - Alternativa3D GPU accelerated 3D engine ([examples](https://github.com/AlternativaPlatform/Alternativa3DExamples))
 * [Flare3D](http://flare3d.com/) - Commercial 3D platform with high-performance engine and Level-editor IDE
+* [Zen3D](https://github.com/hgupta9/Zen3D) - High-performance 3D engine for Adobe Flash & AIR (GPU based)
 
 #### Animation
 
@@ -162,8 +162,8 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [TinyTLF](https://github.com/joelhooks/tinytlf) - Versatile text layout framework built on top of the Flash Text Engine for Flash/Flex
 * [TransformManager](https://greensock.com/TransformManager) - By Greensock. Interactive scaling/rotating/moving of DisplayObjects.
 * [TransformTool](https://github.com/senocular/TransformTool) - Free Transform Tool (AS, JS) for manipulating objects in 2D space.
-* [Argilla-Mosaic](https://github.com/folletto/Argilla-Mosaic) - ActionScript 3 dynamic layout library.
-* [xrope](https://github.com/evan-liu/xrope) - Simple layout library for native as3 display objects.
+* [Argilla-Mosaic](https://github.com/folletto/Argilla-Mosaic) - Dynamic layout library.
+* [xrope](https://github.com/evan-liu/xrope) - Simple layout library for native AS3 display objects.
 * [miglayout-as](https://github.com/develar/miglayout-as) - Port of MigLayout, a superbly versatile Flash/Flex/FlashCocoa (SWT/Swing/JavaFX) layout manager
 
 #### Multi Touch
@@ -194,7 +194,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Data Visualization
 
-* [Degrafa](https://github.com/lancejpollard/degrafa) - Degrafa is a declarative graphics framework for Flex.
+* [Degrafa](https://github.com/lancejpollard/degrafa) - Powerful declarative graphics framework for Flex.
 * [Axiis](https://github.com/hgupta9/AxiisCharts) - Data visualization framework with line, bar, wedge, column, cluster, area, smith and treemap charts.
 * [Open Flash Charts](https://sourceforge.net/projects/openflashchart/) - Line charts, Area charts, Bar charts, Pie charts, Scatter charts.
 * [Flare](https://github.com/prefuse/Flare) - charts and graphs, supports data management, visual encoding, animation, and interaction techniques.
@@ -207,7 +207,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Camera
 
-* [CameraDetection](https://github.com/cataclysmicrewind/CameraDetection) - AS3 camera detection
+* [CameraDetection](https://github.com/cataclysmicrewind/CameraDetection) - Camera detection
 * [Fluocam](https://github.com/Fluocode/Fluocam) - Virtual camera for Starling applications
 * [WebcamRecorder](https://github.com/Stupeflix/WebcamRecorder) - Chromeless video/audio/still image recording from webcams.
 * [FlashyWrappers](https://github.com/rainbowcreatures/FlashyWrappers) - Recording video from AIR apps on Windows/Android/iOS/OSX.
@@ -244,10 +244,10 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### Panorama Viewer
 
 * [Pantaloons](https://github.com/EyeSee360/Pantaloons) - Panoramic viewing in Flash Player
-* [SaladoPlayer](https://github.com/mstandio/SaladoPlayer) - Free flash panorama viewer
-* [PanoramicViewer](https://github.com/BrianMehrman/PanoramicViewer) - AS3 3D Panoramic Viewer
+* [SaladoPlayer](https://github.com/mstandio/SaladoPlayer) - Panorama viewer
+* [PanoramicViewer](https://github.com/BrianMehrman/PanoramicViewer) - 3D Panoramic Viewer
 * [Sphere_panorama](https://github.com/suzumura-ss/flash_sphere_panorama) - Panorama player with equirectangular texture written in AS3 (Alternativa3D).
-* [CuTy](https://github.com/fieldOfView/CuTy) - QTVR panorama viewer based on Flash 10
+* [CuTy](https://github.com/fieldOfView/CuTy) - QTVR Panorama viewer based on Flash 10
 
 #### QR Code
 
@@ -258,23 +258,23 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### Sound
 
 * [SoundAS](https://github.com/treefortress/SoundAS) - Modern & lightweight sound manager for AS3.
-* [Standingwave3](https://github.com/maxl0rd/standingwave3) - AS3 dynamic audio library
+* [Standingwave3](https://github.com/maxl0rd/standingwave3) - Dynamic audio library
 * [Standingwave3-addons](https://github.com/charlesclements/standingwave3-addons) - Addons for SW3
 * [Soundtouch-as3](https://github.com/also/soundtouch-as3) - AS3 Port of the SoundTouch Sound Processing Library
-* [SeiON](https://github.com/cardin/SeiON) - Actionscript Sound Management Library
-* [AS3-Sound-Manager](https://github.com/GrupoW/as3-Sound-Manager)-  upgrated version of the Sound Manager Class from Matt Przybylski
+* [SeiON](https://github.com/cardin/SeiON) - Sound Management Library
+* [AS3-Sound-Manager](https://github.com/GrupoW/as3-Sound-Manager)- Upgraded version of the Sound Manager Class from Matt Przybylski
 * [AS3sfxr](https://github.com/SFBTom/as3sfxr) - Port of sfxr from C++ to AS3, using the new sound and file capabilities of Flash Player 10.
 * [AS3-audio](https://github.com/singuerinc/as3-audio) - Audio Management in Actionscript
 * [SiON](https://github.com/keim/SiON) - Flash Software Synthesizer
-* [FlashWavRecorder](https://github.com/michalstocki/FlashWavRecorder) - Simple flash file for recording audio and saving as a WAV
+* [FlashWavRecorder](https://github.com/michalstocki/FlashWavRecorder) - Recording audio and saving as a WAV
 * [Local-recorder](https://github.com/pauln/local-audio-recorder) - Local audio recorder (no streaming server required).  Currently requires Flash Player 10.1 or above.
 * [Jukebox](https://github.com/AlwynW/Jukebox) - Music manager for Actionscript 3 projects
-* [Flod](https://github.com/photonstorm/Flod) - AS3 Amiga SoundTracker (MOD) and FastTracker (XM) Replay Library
+* [Flod](https://github.com/photonstorm/Flod) - Amiga SoundTracker (MOD) and FastTracker (XM) Replay Library
 
 #### Video Player
 
 * [Flowplayer](https://github.com/flowplayer/flash) - Flowplayer Flash, the video player for the Web
-* [Goplayer](https://github.com/dbrock/goplayer) - Modern, open-source video player written in ActionScript 3
+* [Goplayer](https://github.com/dbrock/goplayer) - Modern open-source video player written in ActionScript 3
 * [OSFlashVideoPlayer](https://github.com/FlashJunior/OSFlashVideoPlayer) - Open source flash video player
 * [F4player](https://github.com/gokercebeci/f4player) - Open Source AS3 Flash Video Player
 * [dashas](https://github.com/castlabs/dashas) - MPEG-DASH player written in ActionScript
@@ -285,29 +285,29 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### SQLite
 * [AS3Query](https://github.com/kemsky/as3Query) - Another SQLite ORM and query DSL for ActionScript
-* [AIRdb](https://github.com/dkeskar/airdb) - ActionScript AIR ORM for using client-side SQLite within AIR and Flex apps. Supports ActiveRecord style models, migrations and associations.
-* [Flexine](https://github.com/riadvice/Flexine) - AS3 SQLite ORM for AIR
+* [AIRdb](https://github.com/dkeskar/airdb) - AIR ORM for using client-side SQLite within AIR and Flex apps. Supports ActiveRecord style models, migrations and associations.
+* [Flexine](https://github.com/riadvice/Flexine) - SQLite ORM for AIR
 * [AIR-sqlite](https://github.com/probertson/air-sqlite) - Utilities for working with SQLite databases in AIR
 
 #### MongoDB
-* [MongoAS3](https://github.com/s9tpepper/MongoAS3) - AS3 Driver for mongoDB.
-* [ActionMongo](https://github.com/RIAlizer/ActionMongo) - MongoDB driver for AS3
+* [MongoAS3](https://github.com/s9tpepper/MongoAS3) - MongoDB driver
+* [ActionMongo](https://github.com/RIAlizer/ActionMongo) - MongoDB driver
 
 #### CouchDB
-* [AS3couchdb](https://github.com/bustardcelly/as3couchdb) - AS3 clientside API for interacting with a CouchDB instance.
+* [AS3couchdb](https://github.com/bustardcelly/as3couchdb) - Client-side API for interacting with a CouchDB instance.
 * [Soup](https://github.com/dima/soup) - Mixing CouchDB, Sinatra, AIR and RestfulX to create an offline/online ready app with undo/redo capabilities.
 
 #### MySQL
-* [AS3mysql](https://github.com/hgupta9/as3mysql) - AS3 driver for the MySQL open source database.
+* [AS3mysql](https://github.com/hgupta9/as3mysql) - Driver for the MySQL open source database.
 
 #### PostgreSQL
-* [Pegasus](https://github.com/uhoh-itsmaciek/pegasus) - AS3 driver for the PostgreSQL open source database.
+* [Pegasus](https://github.com/uhoh-itsmaciek/pegasus) - Driver for the PostgreSQL open source database.
 
 #### DynamoDB
-* [AWS-dynamodb](https://github.com/ferf/aws-dynamodb-actionscript) - An actionscript library for accessing Amazon's AWS DynamoDB
+* [AWS-dynamodb](https://github.com/ferf/aws-dynamodb-actionscript) - Driver for accessing Amazon's AWS DynamoDB
 
 #### Redis
-* [AS3redis](https://github.com/zhangq0355/as3redis) - An Actionscript 3 library for Redis
+* [AS3redis](https://github.com/zhangq0355/as3redis) - Driver for Redis
 
 ## File Formats
 
@@ -319,9 +319,9 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### 3D Formats
 
-* [AsCollada](https://github.com/timknip/ascollada) - AS3 library to parse COLLADA 3D model files ([fork](https://github.com/david-gregory/ascollada))
-* [AsBlender](https://github.com/timknip/asblender) - AS3 library for reading Blender .BLEND files
-* [AS3-bvh-parser](https://github.com/rkn14/as3-bvh-parser) - AS3 parser for BVH files
+* [AsCollada](https://github.com/timknip/ascollada) - Parse COLLADA 3D model files ([fork](https://github.com/david-gregory/ascollada))
+* [AsBlender](https://github.com/timknip/asblender) - Parse Blender .BLEND files
+* [AS3-bvh-parser](https://github.com/rkn14/as3-bvh-parser) - Parse BVH files
 * [EasyAGAL](https://github.com/Barliesque/EasyAGAL) - Simplifies development of AGAL shaders with code completion, code hinting,  macros, etc.
 
 #### CSV
@@ -366,9 +366,9 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### JSON
 
 * [Actionjson](https://github.com/mherkender/actionjson) - Faster, more advanced ActionScript 3 JSON library
-* [Jameson](https://github.com/mattupstate/jameson) - AS3 JSON Document Object Mapper
-* [Serialkiller](https://github.com/benbjohnson/serialkiller) - AS3 JSON & XML serialization library
-* [JsonMapper](https://github.com/kemsky/JsonMapper) - AS3 Typed JSON parser
+* [Jameson](https://github.com/mattupstate/jameson) - JSON Document Object Mapper
+* [Serialkiller](https://github.com/benbjohnson/serialkiller) - JSON & XML serialization library
+* [JsonMapper](https://github.com/kemsky/JsonMapper) - Typed JSON parser
 * [JSONTools](https://github.com/s9tpepper/JSONTools) - JSON errors, the speed of the JSWoof JSON library, and E4X style queries dubbed E4J
 
 #### Markdown
@@ -379,7 +379,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### MP3
 
-* [AS3id3lib](https://github.com/devxoul/as3id3lib) - AS3 library to read MP3 ID3 data.
+* [AS3id3lib](https://github.com/devxoul/as3id3lib) - Parse MP3 ID3 data.
 * [AS3Icy](https://github.com/claus/as3icy) - Decode and play live MP3 streams from Shoutcast, Icecast and Limewire.
 
 #### PDF
@@ -392,7 +392,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### PSD
 
-* [AS3-psd-parser](https://github.com/warrenseine/as3-psd-parser) - ActionScript 3 PSD Parser
+* [AS3-psd-parser](https://github.com/warrenseine/as3-psd-parser) - Parse Photoshop PSD files and render as BitmapData objects.
 
 #### SWF
 
@@ -410,12 +410,12 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 * [XMLSerializer](https://github.com/vapesolius/XMLSerializer) - Library which allows data serialisation from ActionScript to XML and from XML to ActionScript
 * [DynamicXMLParser](https://github.com/lmgerhard/DynamicXMLParser) - Dynamic parse xml content into predefined data classes (actionscript 3).
-* [Nudge](https://github.com/pluglimited/Nudge) - Actionscript framework to serialize objects as XML
+* [Nudge](https://github.com/pluglimited/Nudge) - Framework to serialize/deserialize objects as XML
 * [AStream](https://github.com/kokorin/AStream) - XML to Object (and vice versa) mapping library written in AS3. Compatible with XStream.
 
 #### XLSX
 
-* [AS3-xlsx-reader](https://github.com/childoftv/as3-xlsx-reader) - An Actionscript 3.0 package to read .xlsx Open XML Excel or Open Office spreadsheets
+* [AS3-xlsx-reader](https://github.com/childoftv/as3-xlsx-reader) - Parse Open XML Excel (.XLSX) or Open Office spreadsheets
 
 
 ## Networking
@@ -427,7 +427,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Hardware
 
-* [AS3midilib](https://github.com/heyfrench/as3midilib) - Working with MIDI data and devices
+* [AS3midilib](https://github.com/heyfrench/as3midilib) - Work with MIDI files and MIDI input/output devices
 * [AS3glue](https://code.google.com/archive/p/as3glue/) - Communication for Arduino boards
 * [AS3-arduino](https://github.com/quetwo/as3-arduino-connector) - Connecting Arduino Prototyping board to Adobe AIR
 * [AIRkinect](https://github.com/AS3NUI/airkinect-2-core) - ANE for integrating with Microsoft Kinect. ([examples](https://github.com/AS3NUI/airkinect-2-examples))
@@ -443,7 +443,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### OAuth
 
-* [Actionscript-oauth2](https://github.com/charlesbihis/actionscript-oauth2) - AS3 library for interfacing with OAuth 2.0 services.
+* [Actionscript-oauth2](https://github.com/charlesbihis/actionscript-oauth2) - Interfacing with OAuth 2.0 services.
 * [oauth-flex](https://github.com/oauth-io/oauth-flex) - OAuth.io plugin for Apache Flex/ActionScript
 * [oauth-as3](https://github.com/mlepicki/oauth-as3) - Mavenized, RSL version of oauth-as3 library - OAuth for ActionScript 3
 
@@ -457,19 +457,19 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### P2P
 
-* [P2Plocal](https://github.com/palkan/as3_p2plocal) - AS3 local RTMFP connections
+* [P2Plocal](https://github.com/palkan/as3_p2plocal) - Local RTMFP connections
 * [Android-Flash-P2P](https://github.com/beautifycode/Android-Flash-P2P) - P2P Communication between a Client.swf and an Android Device with AIR
 * [GogduNet](https://github.com/Siyania/GogduNet) - Communication Library for TCP and UDP and P2P
 * [NetGrouper](https://github.com/walpolea/NetGrouper) - Wrapper for NetGroup and RTMFP Multicasting abilities to create quick P2P multiplayer games over local networks or Adobe Cirrus
 * [HydraP2P](https://github.com/devboy/HydraP2P) - Simplifies the peer-to-peer API introduced in Flash Player 10.1
-* [GroupP2P](https://github.com/oohazard/GroupP2P) - AS3 P2P-based netgroup
+* [GroupP2P](https://github.com/oohazard/GroupP2P) - P2P-based netgroup
 * [HLS-P2P](https://github.com/lava-tech/hls-p2p) - Flash OSMF based hybrid cdn&p2p hls solution
 * [P2Pmessaging](https://github.com/dreamsocket/actionscript-p2p_messaging) - Simple messaging framework for doing P2P in Flash
 * [ArcusNode](https://github.com/OpenRTMFP/ArcusNode) - RTMFP Rendevouz Service For Peer Assisted Networking With Adobe Flash on Node JS
 
 #### Sockets
 
-* [AS3WebSocket](https://github.com/theturtle32/AS3WebSocket) - AS3 WebSocket client implementation for the final WebSocket Draft RFC6455
+* [AS3WebSocket](https://github.com/theturtle32/AS3WebSocket) - WebSocket client implementation for the final WebSocket Draft RFC6455
 * [SmartSocket](https://github.com/XaeroDegreaz/SmartSocket) - SmartSocket is a Java and PHP socket server engine, to make creating multi-user applications quick and painless.
 * [FlashSocket.IO](https://github.com/simb/FlashSocket.IO) - Clients connect to Socket.IO servers from AS3/AIR clients.
 * [Socket.io](https://github.com/ascorbic/socket-io-actionscript) - Socket.IO Actionscript 3 client
@@ -481,32 +481,32 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### Protocols
 
 * [GIT](https://github.com/nexussays/git-as3) - Pure AS3 implementation of Git
-* [AIRplay](https://github.com/mikkoh/AS3-Airplay) - Implementation of Apple's Airplay written in Actionscript 3.
+* [AIRplay](https://github.com/mikkoh/AS3-Airplay) - Implementation of Apple's Airplay
 * [TeaTime](https://github.com/aemoncannon/croqodile) - AS3/Erlang implementation of the Croquet project's TeaTime protocol
-* [XMPP](https://github.com/lyokato/as3xmppclient) - AS3 XMPP client library
-* [XMPP](https://github.com/bluef/kuching) - Lightweight XMPP library for Actionscript 3
-* [AMQP](https://github.com/0x6e6562/as3-amqp) - Implementation of the 0-8 version of AMQP for AS3.
-* [NTP](https://github.com/charlespalen/AS3-NTP-Implementation) - AS3 NTP Client (Network Time Protocol) using Adobe AIR
-* [FUDI](https://github.com/matthiasbreuer/FUDI-as3) - AS3 implementation of the Puredata FUDI protocol
+* [XMPP](https://github.com/lyokato/as3xmppclient) - XMPP client library
+* [XMPP](https://github.com/bluef/kuching) - Lightweight XMPP library
+* [AMQP](https://github.com/0x6e6562/as3-amqp) - Implementation of the 0-8 version of AMQP
+* [NTP](https://github.com/charlespalen/AS3-NTP-Implementation) - NTP Client (Network Time Protocol) using Adobe AIR
+* [FUDI](https://github.com/matthiasbreuer/FUDI-as3) - Implementation of the Puredata FUDI protocol
 * [BDD Cucumber](https://github.com/flashquartermaster/Cuke4AS3) - A BDD Cucumber wire protocol implementation for Flash ActionScript
 
 #### Email
 
-* [AIRXMail](https://github.com/hgupta9/AirXMail) - Complete email library for AS3 supporting SMTP, POP3 and IMAP4.
-* [AS3Mailer](https://github.com/Matan/AS3Mailer) - Sends email from flash using server script or invokes a mailto.
+* [AIRXMail](https://github.com/hgupta9/AirXMail) - Complete client-side email library supporting SMTP, POP3 and IMAP4.
+* [AS3Mailer](https://github.com/Matan/AS3Mailer) - Sends email using server script or invokes a mailto.
 
 ## Utilities
 
 #### Artificial Intelligence
 
-* [FiniteStateMachine](https://github.com/pzUH/FiniteStateMachine) - Finite State Machine for AI bot/agent in a video games
-* [N-GramPredictor](https://github.com/pzUH/N-GramPredictor) - n-Gram predictor for AI bot/agent in a video games
-* [Naive-BayesPredictor](https://github.com/pzUH/Naive-BayesPredictor) - Naive-Bayes predictor for AI bot/agent in a video games.
-* [HierarchicalStateMachine](https://github.com/pzUH/HierarchicalStateMachine) - Hierarchical State Machine for AI bot/agent in a video games
+* [FiniteStateMachine](https://github.com/pzUH/FiniteStateMachine) - Finite State Machine for AI bot/agent
+* [N-GramPredictor](https://github.com/pzUH/N-GramPredictor) - n-Gram predictor for AI bot/agent
+* [Naive-BayesPredictor](https://github.com/pzUH/Naive-BayesPredictor) - Naive-Bayes predictor for AI bot/agent
+* [HierarchicalStateMachine](https://github.com/pzUH/HierarchicalStateMachine) - Hierarchical State Machine for AI bot/agent
 * [Godmode-as3](https://github.com/tconkling/godmode-as3) - Behavior tree implementation (artificial intelligence)
-* [DecisionTree](https://github.com/pzUH/DecisionTree) - Binary decision tree for AI bot/agent in a video games
-* [FuzzyStateMachine](https://github.com/pzUH/FuzzyStateMachine) - Fuzzy State Machine (FuSM) for AI bot/agent in a video games
-* [SmartKid](https://github.com/skyfeiyun/SmartKid) - Powerful AI engine for 2D&3D with AS3
+* [DecisionTree](https://github.com/pzUH/DecisionTree) - Binary decision tree for AI bot/agent
+* [FuzzyStateMachine](https://github.com/pzUH/FuzzyStateMachine) - Fuzzy State Machine (FuSM) for AI bot/agent
+* [SmartKid](https://github.com/skyfeiyun/SmartKid) - Powerful AI engine for 2D & 3D games
 
 #### Async
 
@@ -534,7 +534,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [AS3geometry](https://github.com/alecmce/as3geometry) - Primitives, Polygons, Intersections, etc.
 * [AS3GeomAlgo](https://github.com/azrafe7/as3GeomAlgo) - Collection of geometry algorithms. Port of hxGeomAlgo.
 * [Coral](https://github.com/richardlord/Coral) - High-performance classes for 3D mathematics (Point, Vector, Matrix, Quaternion)
-* [Csg.as](https://github.com/timknip/csg.as) - Constructive Solid Geometry for AS3
+* [Csg.as](https://github.com/timknip/csg.as) - Constructive Solid Geometry on 3D meshes
 * [PathUtils](https://github.com/alinakipoglu/Actionscript-PathUtils) - Working with quadratic, bezier and line sequences.
 * [Hilbert](https://github.com/nodename/Hilbert) - Port of Hilbert curve from cortesi/scurve.
 * [AS3AStar](https://github.com/tomnewton/AS3AStar) - Fast A-Star pathfinding algorithm.
