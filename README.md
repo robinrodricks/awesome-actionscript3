@@ -4,6 +4,9 @@
 
 > A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.
 
+Adobe AIR provides a single set of APIs to build cross-platform desktop/mobile applications and games. ActionScript 3 is the programming language for AIR. Powerful native functionality such as file system, SQLite, sensors are included by default. To add missing functionality, you can build ANEs (Air Native Extensions) coded in the native language (eg VC++ for Windows, Java for Android, Swift/Objective-C for iOS). Adobe AIR is very popular in the mobile gaming space. The popular mobile game 'Angry Birds' is built with AIR!
+
+Contributions welcome. To add a useful project simply create an [Issue](https://github.com/hgupta9/awesome-actionscript3/issues).
 
 ## Contents
 
