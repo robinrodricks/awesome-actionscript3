@@ -340,13 +340,13 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### BSON
 
-* [ActionBSON](https://github.com/fminzoni/ActionBSON) - BSON implementation in ActionScript.
-* [MongoAS3](https://github.com/s9tpepper/MongoAS3) - MongoDB Driv\er which includes BSON I/O.
+* [ActionBSON](https://github.com/fminzoni/ActionBSON) - BSON data encoder/decoder.
+* [MongoAS3](https://github.com/s9tpepper/MongoAS3) - MongoDB Driver which includes BSON I/O.
 
 #### EXIF
 
-* [AS3-exif-lib](https://github.com/unstoppable/actionscript-exif-reading-lib) - AS3 library to read JPEG EXIF data.
-* [Exif-as3](https://github.com/bashi/exif-as3) - AS3 library to read JPEG EXIF data.
+* [AS3-exif-lib](https://github.com/unstoppable/actionscript-exif-reading-lib) - Parse JPEG EXIF data.
+* [Exif-as3](https://github.com/bashi/exif-as3) - Parse JPEG EXIF data.
 
 #### FXG
 
@@ -373,9 +373,9 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Markdown
 
-* [Showdown.as](https://gist.github.com/cstrahan/648771) - AS3 port of showdown.js.
-* [Actiondown](https://github.com/bbeaumont/Actiondown) - AS3 port of Javascript Showdown.
-* [Markdownlib](https://github.com/Corsaair/markdownlib) - AS3 implementation of Markdown.
+* [Showdown.as](https://gist.github.com/cstrahan/648771) - Port of showdown.js.
+* [Actiondown](https://github.com/bbeaumont/Actiondown) - Port of Javascript Showdown.
+* [Markdownlib](https://github.com/Corsaair/markdownlib) - Implementation of Markdown.
 
 #### MP3
 
@@ -403,8 +403,8 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### SVG
 
-* [AS3SVGRenderer](https://github.com/LucasLorentz/AS3SVGRenderer) - AS3 SVG Renderer for Flash Player.
-* [SVGParser](https://github.com/millermedeiros/SVGParser) - AS3 SVG parser to FIVe3D and HTML5 canvas.
+* [AS3SVGRenderer](https://github.com/LucasLorentz/AS3SVGRenderer) - SVG Renderer for Flash Player.
+* [SVGParser](https://github.com/millermedeiros/SVGParser) - SVG parser and renderer to FIVe3D and HTML5 canvas.
 
 #### XML
 
@@ -432,7 +432,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [AS3-arduino](https://github.com/quetwo/as3-arduino-connector) - Connecting Arduino Prototyping board to Adobe AIR.
 * [AIRkinect](https://github.com/AS3NUI/airkinect-2-core) - ANE for integrating with Microsoft Kinect. ([examples](https://github.com/AS3NUI/airkinect-2-examples)).
 * [KinectGate](https://github.com/cleoag/KinectGate) - KinectSDK to AS3 socket gate.
-* [Kinect-Gestures](https://github.com/tonybeltramelli/Air-Kinect-Gesture-Lib) - AS3 AIR Kinect Gesture Library.
+* [Kinect-Gestures](https://github.com/tonybeltramelli/Air-Kinect-Gesture-Lib) - AIR Kinect Gesture Library.
 * [OpenTSPS](https://github.com/labatrockwell/openTSPS) - TSPS is a cross platform Toolkit for Sensing People in Spaces. It performs openCV operations on live video (Kinect, web camera, etc) and sends it to clients as JSON (via WebSockets), OSC, TUIO, or TCP.
 * [LeapMotionAS3](https://github.com/logotype/LeapMotionAS3) - Integrate with the LeapMotion sensor (provides Gestures, Image, Skeleton/Bone @ 210 FPS).
 
@@ -480,14 +480,14 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Protocols
 
-* [GIT](https://github.com/nexussays/git-as3) - Pure AS3 implementation of Git.
-* [AIRplay](https://github.com/mikkoh/AS3-Airplay) - Implementation of Apple's Airplay.
+* [GIT](https://github.com/nexussays/git-as3) - Client-side implementation of Git.
+* [AIRplay](https://github.com/mikkoh/AS3-Airplay) - Client-side implementation of Apple's Airplay.
 * [TeaTime](https://github.com/aemoncannon/croqodile) - AS3/Erlang implementation of the Croquet project's TeaTime protocol.
-* [XMPP](https://github.com/lyokato/as3xmppclient) - XMPP client library.
-* [XMPP](https://github.com/bluef/kuching) - Lightweight XMPP library.
-* [AMQP](https://github.com/0x6e6562/as3-amqp) - Implementation of the 0-8 version of AMQP.
-* [NTP](https://github.com/charlespalen/AS3-NTP-Implementation) - NTP Client (Network Time Protocol) using Adobe AIR.
-* [FUDI](https://github.com/matthiasbreuer/FUDI-as3) - Implementation of the Puredata FUDI protocol.
+* [XMPP](https://github.com/lyokato/as3xmppclient) - Client-side implementation of XMPP library.
+* [XMPP](https://github.com/bluef/kuching) - Lightweight implementation of XMPP library.
+* [AMQP](https://github.com/0x6e6562/as3-amqp) - Client-side implementation of the 0-8 version of AMQP.
+* [NTP](https://github.com/charlespalen/AS3-NTP-Implementation) - Client-side implementation of NTP Client (Network Time Protocol).
+* [FUDI](https://github.com/matthiasbreuer/FUDI-as3) - Client-side implementation of the Puredata FUDI protocol.
 * [BDD Cucumber](https://github.com/flashquartermaster/Cuke4AS3) - A BDD Cucumber wire protocol implementation for Flash ActionScript.
 
 #### Email
