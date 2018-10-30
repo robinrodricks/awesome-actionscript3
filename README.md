@@ -74,7 +74,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Starling](https://gamua.com/starling/) - High-performance 2D graphics engine built on Stage3D. API identical to Flash API. ([github](https://github.com/Gamua/Starling-Framework), [help](http://wiki.starling-framework.org/start)).
 * [Feathers UI](https://feathersui.com/) - User interface components for Starling Framework ([github](https://github.com/BowlerHatLLC/feathers), [help](https://feathersui.com/help/index.html)).
 * [Flow](https://github.com/artman/Flow) - Layout, effects, data binding and remoting framework to be used instead of Flex.
-* [AS3Commons UI](https://github.com/AS3Commons/as3commons-ui) - Layouting, focus and keyboard management framework ([site](http://sibirjak.com/osflash/projects/as3commons-ui/)).
+* [AS3Commons UI](https://github.com/AS3Commons/as3commons-ui) - Layouting, focus and keyboard management framework.
 * [Swiz](https://github.com/swiz/swiz-framework) - Brutally simple micro-architecture for creating RIAs with AS3 and Adobe Flex.
 * [Hiddenwood](https://github.com/raweden/Project-Hiddenwood) - User interface library developed for a web app project, written in AS3 and in a MVC pattern.
 * [Elastic-Lists](https://github.com/MoritzStefaner/Elastic-Lists) - Fluid and powerful interface for facet browsing.
@@ -141,7 +141,6 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### UI Components
 
 * [MinimalComps](https://github.com/minimalcomps/minimalcomps) - Minimal ActionScript 3.0 UI Components for Flash.
-* [Extended-MinimalComps](https://github.com/turbosqel/Extended-MinimalComps) - Upgraded for data binding, relative resizing, ASML builder and more.
 * [MadComponents](https://github.com/danfreeman/MadComponents) - Popular Mobile UI Framework for AS3 / AIR.
 * [AsWing](https://github.com/dreamsxin/AsWing) - Open Source Flash ActionScript GUI framework.
 * [GPUI](https://github.com/inspirit/GPUI) - Tiny GUI Library based on Stage3D (GPU).
@@ -172,7 +171,6 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Multi Touch
 
-* [AS3TouchLib](https://github.com/turbosqel/AS3TouchLib) - Touch library for read CCV TCP/FlashXML data, TUIO UDP/TCP or TouchEvents from other devices.
 * [TUIO Client](https://github.com/lagerkoller/tuio-as3) - Common framework for multi-touch hardware, supporting TUIO/FLC and TUIO/TCP ([web](http://www.tuio.org/?flash)).
 * [Gestouch](https://github.com/fljot/Gestouch) - Multitouch gesture recognition library for building better Natural User Interfaces.
 * [Gestures.IO](https://github.com/GesturesIO/gesturesio-as3) - Simplifies the way you create gesture-based Natural Interactions.
@@ -198,7 +196,6 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Data Visualization
 
-* [Degrafa](https://github.com/lancejpollard/degrafa) - Powerful declarative graphics framework for Flex.
 * [Axiis](https://github.com/hgupta9/AxiisCharts) - Data visualization framework with line, bar, wedge, column, cluster, area, smith and treemap charts.
 * [Open Flash Charts](https://sourceforge.net/projects/openflashchart/) - Line charts, Area charts, Bar charts, Pie charts, Scatter charts.
 * [Flare](https://github.com/prefuse/Flare) - charts and graphs, supports data management, visual encoding, animation, and interaction techniques.
@@ -318,7 +315,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### Archives
 
 * [FZip](https://github.com/claus/fzip) - Mature library to load, modify and create standard ZIP archives.
-* [ASZip](https://code.google.com/archive/p/aszip/) - Generate ZIP archives from AS3. ([post](http://www.bytearray.org/?p=105)).
+* [ASZip](https://code.google.com/archive/p/aszip/) - Generate ZIP archives from AS3.
 * [Untar-Worker](https://github.com/mesmotronic/as3-worker-untar) - TAR extraction using AS3 Workers (background threads).
 
 #### 3D Formats
@@ -388,7 +385,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### PDF
 
-* [AlivePDF](https://code.google.com/archive/p/alivepdf/) - Client side PDF generation ([docs](http://alivepdf.bytearray.org/), [github](https://github.com/riadvice/alivepdf)).
+* [AlivePDF](https://code.google.com/archive/p/alivepdf/) - Client side PDF generation ([github](https://github.com/riadvice/alivepdf)).
 * [PurePDF](https://github.com/sephiroth74/purePDF) - Complete PDF library, port of Java iText.
 * [HalcyonPDF](https://github.com/systemed/halcyon_pdf) - OpenStreetMap PDF renderer.
 * [PDFCase](https://github.com/dickclaus/pdfcase) - PDF Library.
@@ -463,7 +460,6 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 * [P2Plocal](https://github.com/palkan/as3_p2plocal) - Local RTMFP connections.
 * [Android-Flash-P2P](https://github.com/beautifycode/Android-Flash-P2P) - P2P Communication between a Client.swf and an Android Device with AIR.
-* [GogduNet](https://github.com/Siyania/GogduNet) - Communication Library for TCP and UDP and P2P.
 * [NetGrouper](https://github.com/walpolea/NetGrouper) - Wrapper for NetGroup and RTMFP Multicasting abilities to create quick P2P multiplayer games over local networks or Adobe Cirrus.
 * [HydraP2P](https://github.com/devboy/HydraP2P) - Simplifies the peer-to-peer API introduced in Flash Player 10.1.
 * [GroupP2P](https://github.com/oohazard/GroupP2P) - P2P-based netgroup.
@@ -516,7 +512,6 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 * [EasyAS-Worker](https://github.com/myflashlab/easyAS-Worker) - Simplified wrapper for AIR Workers.
 * [Worker-from-class](https://github.com/bortsen/worker-from-class) - Create Workers from Class definitions.
-* [AS3Futures](https://github.com/brianheylin/AS3Futures) - Simplifies making a series of async function calls.
 
 #### Crypto
 
@@ -528,10 +523,6 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Hashlib](https://github.com/Corsaair/hashlib) - Over 30 different hashing functions.
 * [XXTEA-AS3](https://github.com/xxtea/xxtea-as3) - XXTEA encryption algorithm library for ActionScript 3.
 * [Gibberish-AES](https://github.com/NordMike/gibberish-aes-as3) - A fully OpenSSL compliant ActionScript 3 library for AES encryption.
-
-#### Data
-
-* [AS3Commons Collections](https://github.com/AS3Commons/as3commons-collections) - Sophisticated and high-performance collections & iterators for AS3 ([website](http://sibirjak.com/osflash/projects/as3commons-collections/)).
 
 #### Geometry
 
