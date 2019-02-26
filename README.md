@@ -148,6 +148,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Falcon](https://github.com/HendrixString/Falcon) - responsive/flexible mobile ui controls for Feathers.
 * [Flex-maps](https://github.com/igorcosta/flex-maps) - Definitive solution for maps in Apache Flex.
 * [FlexBook](https://github.com/blvz/FlexBook) - Awesome Page Flip component for Flex.
+* [Flex-Android-Material-Skins](https://github.com/quick6black/flex-Android-Material-Skins) - Android Material Design skins for Flex Mobile components.
 
 #### Starling Components
 
