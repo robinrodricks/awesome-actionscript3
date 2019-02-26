@@ -31,7 +31,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Adobe Flash Builder](https://www.adobe.com/products/flash-builder.html) - Commercial IDE for building applications on the Flex framework (with advanced debugging tools).
 * [Moonshine IDE](http://moonshine-ide.com/) - Moonshine is a free and open source middleweight IDE built with ActionScript 3 for ActionScript 3, Apache Flex®, Apache FlexJS® and Feathers development with Cloud and Desktop support.
 * [IntelliJ IDEA](https://www.jetbrains.com/help/idea/building-actionscript-and-flex-applications.html) - Commercial IDE that supports many different languages including AS3.
-* [ActionScript & MXML in Visual Studio Code](https://as3mxml.com/) - A language extension for Microsoft's free editor, Visual Studio Code. Supports Adobe AIR, Flash Player, and Apache Royale workflows. Runs everywhere — including Windows, macOS, and Linux.
+* [Visual Studio Code](https://as3mxml.com/) - An AS3 & MXML language extension for Visual Studio Code. Runs on Windows, macOS, and Linux.
 
 #### Live Debuggers
 * [Adobe Scout](https://www.adobe.com/products/scout.html) - Advanced visual profiling and debugging tool for AIR apps & games (supports Stage3D).
@@ -525,6 +525,10 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [XXTEA-AS3](https://github.com/xxtea/xxtea-as3) - XXTEA encryption algorithm library for ActionScript 3.
 * [Gibberish-AES](https://github.com/NordMike/gibberish-aes-as3) - A fully OpenSSL compliant ActionScript 3 library for AES encryption.
 
+#### Data	
+
+ * [AS3Commons Collections](https://github.com/AS3Commons/as3commons-collections) - Sophisticated and high-performance collections & iterators for AS3.
+ 
 #### Geometry
 
 * [AS3geometry](https://github.com/alecmce/as3geometry) - Primitives, Polygons, Intersections, etc.
