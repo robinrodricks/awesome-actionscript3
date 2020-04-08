@@ -645,4 +645,4 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Testflight](https://github.com/jlopez/ane-testflight) - Apple TestFlight ANE.
 * [HockeyApp](https://github.com/airext/hockeyapp) - ANE for the Hockeyapp testing & distribute platform.
 * [Chartboost](https://github.com/ChartBoost/air) - ANE for the Chartboost SDK with compile scripts.
-* [Devtodev](https://devtodev.com/) - A full-cycle analytics solution for game developers.
+* [Devtodev](https://github.com/devtodev-analytics/air-sdk) - A full-cycle analytics solution for game developers.
