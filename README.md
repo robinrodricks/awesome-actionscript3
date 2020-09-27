@@ -227,6 +227,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [AS3potrace](https://github.com/PowerflasherBR/as3potrace) - POTrace implementation, to trace bitmap images to vector.
 * [ATF-Encoder](https://github.com/plepers/ATF-Encoder) - Encode/decode ATF (Adobe Texture Format) files in pure AS3.
 * [AS3-klt](https://github.com/motemen/as3-klt) - Kanade-Lucas-Tomasi feature tracker implementation.
+* [BlurHash](https://github.com/roipeker/as3-blurhash) - A BlurHash encoder/decoder implementation in ActionScript 3.0..
 
 #### Font
 
